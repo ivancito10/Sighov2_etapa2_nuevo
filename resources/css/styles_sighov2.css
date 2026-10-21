@@ -1,0 +1,40 @@
+ /* esto es para editar , tonos narnjas*/
+ .btn-orange {
+    background-color: #F0B27A;
+    border-color: #F0B27A;
+    color: #A04000;
+}
+
+.btn-orange:hover {
+    background-color: #A04000;
+    color: white;
+}
+
+/**Esto es para habilitaR, TONOS VERDES */
+.btn-green {
+    background-color: #82E0AA;
+    color: #196F3D;
+    border-color: #196F3D;
+}
+
+.btn-green:hover {
+    background-color: #196F3D;
+    /* Fondo verde oscuro */
+    color: #82E0AA;
+    /* Texto verde claro */
+    border-color: #196F3D;
+    /* Borde verde claro */
+}
+
+/**ESTO ES PAR DESHABILITAR, TONOS ROJOS */
+.btn-red {
+    background-color: #F1948A ;
+    color: #B03A2E ;
+    border-color: #F1948A;
+}
+
+.btn-red:hover {
+    background-color: #c0392b;
+    border-color: #c0392b;
+    color: white;
+}

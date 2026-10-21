@@ -1,0 +1,421 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-wrap: wrap;
+  }
+  
+  .card1 {
+    width: 600px;
+    height: 380px;
+    /* width: 8.5cm;
+    height: 5.5cm; */
+    background-color: white;
+    color: #f9f9f9;
+    position: relative;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin: 20px;
+  }
+  
+  .d_col1 {
+    /* position: absolute; */
+    background-color: rgba(14, 30, 51, 255);
+    padding: 30%;
+    transform: skewX(45deg);
+    height: 100%;
+    margin-top: 60px;
+    z-index: 3;
+  }
+  .d_col2 {
+    position: absolute;
+    background-color: #213d55;
+    padding: 30px;
+    transform: skewX(45deg);
+    height: 150%;
+    /* margin-top: 200px; */
+    margin-right: 450px;
+    z-index: 3;
+  }
+  .imagen {
+    position: absolute;
+    /* position: absolute; */
+    background-color: #f9f9f9;
+  
+    background-image: url("./public/Foto1.jpg");
+    background-size: 46%; /* Ajusta la imagen para cubrir el área del div */
+    background-position: center; /* Centra la imagen en el div */
+    background-repeat: no-repeat;
+    width: 120%;
+    height: 100%;
+    /*!la imagen*/
+    margin-right: 400px;
+    /* padding-left: -100px; */
+    z-index: 1;
+  }
+  
+  .l_col3 {
+    background: linear-gradient(#3075aa, rgba(14, 30, 51, 255));
+    /* background: repeating-radial-gradient(#152a42, #3075aa); */
+    padding: 20px;
+    transform: skewX(-43deg);
+    height: 100%;
+    margin-top: -90px;
+    margin-left: -0px;
+    z-index: 2;
+  }
+  .l_col4 {
+    background: linear-gradient(#72b4e7, rgba(14, 30, 51, 255));
+    /* box-shadow: 0 4px 8px rgba(16, 16, 16, 0.1); */
+    /* background-color: antiquewhite; */
+    /* background-color: #3178b2; */
+    /* background: repeating-radial-gradient(#152a42, #3075aa); */
+    padding: 40px;
+    transform: skewX(-43deg);
+    height: 100%;
+    margin-top: -100px;
+    margin-left: -20px;
+    margin-right: -100px;
+    z-index: 2;
+  }
+  .l_col5 {
+    /* background: linear-gradient(#3075aa, rgba(14, 30, 51, 255)); */
+    /* background-color: aquamarine; */
+    background-color: rgba(14, 30, 51, 255);
+    /* background: repeating-radial-gradient(#152a42, #3075aa); */
+    padding: 30px;
+    transform: skewX(-43deg);
+    height: 100%;
+    /* margin-top: -120px; */
+    z-index: 3;
+  }
+  .l_col6 {
+    background: linear-gradient(#1f3d6b, rgba(14, 30, 51, 255));
+    /* background: repeating-radial-gradient(#152a42, #3075aa); */
+    padding: 450px;
+    transform: skewX(-43deg);
+    height: 100%;
+    /* margin-top: -320px; */
+    margin-left: -410px;
+    z-index: 3;
+  }
+  .l_col7 {
+    /* background: linear-gradient(#3075aa, rgba(14, 30, 51, 255)); */
+    background-color: #142d42;
+    /* background: repeating-radial-gradient(#152a42, #3075aa); */
+    padding: 50px;
+    transform: skewX(-45deg);
+    height: 100%;
+    /* margin-top: -320px; */
+    margin-left: -2px;
+    z-index: 4;
+  }
+  .derecho {
+    background-color: black;
+    z-index: 1;
+    display: flex;
+    padding: 0%;
+  }
+  .institucion {
+    /* background-color: #72b4e7; */
+    width: 200px;
+    height: 60px;
+    /* background: linear-gradient(#72b4e7, #3075aa); */
+    /* opacity: 0.7; */
+    /* border-radius: 10px; */
+    display: flex;
+    flex-grow: initial;
+    position: absolute; /* Permite mover este div de forma libre */
+    right: 10px; /* Posiciona el div en la esquina derecha */
+    top: 30px; /* Posiciona el div en la parte inferior */
+    /* background: linear-gradient(45deg, #1d2b48, #1f3d6b); */
+    padding: 0px;
+    z-index: 11; /* Asegura que esté sobre otros divs */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: right;
+  }
+  .nombreInstitucion {
+    width: auto; /* Mantiene su tamaño original */
+    height: auto; /* Mantiene su tamaño original */
+    max-width: 100%; /* Asegura que no se desborde de su contenedor */
+    /* background-color: black; */
+    padding-right: 10px;
+    /* font-size: 100%; */
+    font-size: 1.1em;
+  }
+  .logo {
+    width: auto; /* Mantiene su tamaño original */
+    height: auto; /* Mantiene su tamaño original */
+  }
+  .info {
+    /* height: 186px; */
+    /* width: 240px; */
+    width: 100%;
+    height: 100%;
+    display: flex;
+    /* background: #213d55; */
+    position: absolute; /* Permite mover este div de forma libre */
+    /* right: 0px; /* Posiciona el div en la esquina derecha */
+    /* bottom: 0px; /* Posiciona el div en la parte inferior */
+    z-index: 10; /* Asegura que esté sobre otros divs */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+  
+    /* padding-top: %; */
+    align-items: end;
+    justify-content: flex-end;
+    /* padding-right: 30px; */
+    /* font-size: 1.05em; */
+  }
+  .datos_personales {
+    /* border-radius: 10px; */
+    /* background: #1d2b48; */
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    gap: 2px;
+    /* font-weight: bold; */
+    /* flex-basis: auto; */
+  }
+  .nombres {
+    /* background-color: blueviolet; */
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  .apellidos {
+    /* background-color: blueviolet; */
+    font-weight: bold;
+    font-size: 1.5em;
+  }
+  .matricula {
+    /* background-color: blueviolet; */
+    /* font-weight: bold; */
+  
+    letter-spacing: 4px;
+    font-size: 0.9em;
+    color: #f9f9f9;
+    line-height: 1.5rem;
+  }
+  .ci {
+    letter-spacing: 1px;
+  }
+  .institucion_nombre {
+    /* background-color: #3075aa; */
+    display: flex;
+    flex-direction: column;
+    /* font-size: 1.2em; */
+  }
+  .correo {
+    width: auto;
+    font-size: 0.9em;
+  }
+  .contact {
+    /* background-color: blueviolet; */
+    width: auto;
+    margin-top: 7px;
+    /* background: #72b4e7; */
+    font-size: 0.8em;
+    /* font-style: italic; */
+    color: #f9f9f9;
+    /* line-height: 1rem; */
+    letter-spacing: 2px;
+    display: flex;
+    flex-direction: column;
+  }
+  .fechas {
+    /* background: yellowgreen; */
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    gap: 7px;
+    font-size: 0.9em;
+  }
+  .qr_example2 {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    display: flex;
+    position: absolute; /* Permite mover este div de forma libre */
+    padding: 0px;
+    z-index: 11;
+    justify-content: center;
+    align-items: end;
+    bottom: 20px;
+  }
+  .qr2 {
+    /* position: absolute; */
+    /* display: block; */
+    width: 100px;
+    height: 100px;
+  }
+  /* !AQUI VA EL DISEÑO DE LA ESPALDA DEL CARNET */
+  .card2 {
+    width: 600px;
+    height: 380px;
+    /* width: 8.5cm;
+    height: 5.5cm; */
+    /* background: linear-gradient(to right, #4983af, #416497, #6096c0); */
+    background: linear-gradient(to bottom, #395484, #5b80b4);
+  
+    color: #f9f9f9;
+    position: relative;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* border-color: #142d42;
+    border-style: solid groove; */
+    margin: 20px;
+  }
+  .d2_col1 {
+    position: relative;
+    margin-left: -240px;
+    background-color: #1f3d6b;
+    padding: 80px;
+    transform: skewX(45deg);
+    z-index: 2;
+  }
+  .d2_col2 {
+    position: relative;
+    /* margin-left: -60px; */
+    /* margin-right: 300px; */
+    /* background-color: yellowgreen; */
+    background: #416497;
+  
+    padding: 24px;
+    transform: skewX(45deg);
+    z-index: 1;
+  }
+  .fondo_contenido {
+    position: absolute;
+    background: linear-gradient(to right, #4983af, #416497, #6096c0);
+    padding: 10px;
+    width: 80%;
+    height: 90%;
+    transform: skewX(-42deg);
+    margin-left: -200px;
+  }
+  .foto_espalda {
+    position: absolute;
+    width: auto;
+    height: 70%;
+    right: 0px;
+    bottom: 0;
+  }
+  .info_espalda {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /* background: #72b4e7; */
+    display: flex;
+    /* gap: 2px; */
+    z-index: 3;
+    flex-direction: column;
+    /* justify-content: space-between; */
+  }
+  .info_espalda_texto {
+    /* background-color: #3075aa; */
+    /* width: 80%; */
+    /* padding: 10px; */
+    /* padding-top: 15px; */
+    padding-left: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    /* gap: 10px; */
+  }
+  .info_ad {
+    /* background-color: #142d42; */
+    padding-top: 10px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    text-align: center;
+  }
+  .qr {
+    /* background-color: #72b4e7; */
+    padding: 15px;
+    padding-left: 20px;
+    width: 160px;
+    height: 160px;
+  }
+  .info_titulo {
+    font-weight: bold;
+  }
+  .texto {
+    /* background-color: #395484; */
+    padding: 4px;
+  }
+  .l2_col3 {
+    position: relative;
+    margin-left: 256px;
+    /* background-color: violet; */
+    background: #416497;
+    padding: 24px;
+    transform: skewX(-42deg);
+    z-index: 1;
+  }
+  .l2_col4 {
+    background: #1f3d6b;
+    padding: 12px;
+    transform: skewX(-42deg);
+    z-index: 1;
+  }
+  .l2_col5 {
+    /* background-color: sienna; */
+    background: #416497;
+    padding: 24px;
+    transform: skewX(-42deg);
+    z-index: 2;
+  }
+  .l2_col6 {
+    background-color: #1f3d6b;
+    padding: 12px;
+    transform: skewX(-42deg);
+    z-index: 2;
+  }
+  .l2_col7 {
+    /* background-color: sienna; */
+    background: linear-gradient(#6096c0, #6096c0, #416497, #4983af);
+  
+    padding: 24px;
+    transform: skewX(-42deg);
+    z-index: 1;
+  }
+  .l2_col8 {
+    /* background-color: sandybrown; */
+    background: linear-gradient(#1f3d6b, #4983af);
+    padding: 12px;
+    transform: skewX(-42deg);
+    z-index: 0;
+  }
+  .l2_col9 {
+    position: relative;
+    margin-left: 160px;
+    /* background-color: sienna; */
+    background: linear-gradient(#1f3d6b, #72b4e7);
+  
+    padding: 28px;
+    transform: skewX(45deg);
+    /* z-index: 1; */
+  }
+  .l2_col10 {
+    background-color: #1f3d6b;
+    padding: 70px;
+    transform: skewX(45deg);
+    z-index: 1;
+  }
+  

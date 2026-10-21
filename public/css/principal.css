@@ -1,0 +1,691 @@
+    /*-------COLORES PARA BOTONES DEL MENU ------ */
+    .btn-naranja {
+        color: #F39C12;
+    }
+
+    /*-------COLORES RESPONSIVOS PARA LOS BOTONES ------ */
+    /* esto es para editar , tonos narnjas*/
+    .btn-orange {
+        position: relative;
+        display: inline-block;
+        color: #ef6c00;
+        border: 1px solid #ef6c00;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-orange::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #ef6c00;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-orange:hover {
+        color: white;
+    }
+
+    .btn-orange:hover::before {
+        left: 0;
+    }
+
+    .btn-orange svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-orange:hover svg {
+        fill: white;
+    }
+
+    /* tono NEGRO*/
+    .btn-black {
+        position: relative;
+        display: inline-block;
+        color: #34495e;
+        border: 1px solid #34495e;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-black::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #34495e;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-black:hover {
+        color: white;
+    }
+
+    .btn-black:hover::before {
+        left: 0;
+    }
+
+    .btn-black svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-black:hover svg {
+        fill: white;
+    }
+
+    /**Esto es para habilitaR, TONOS VERDES */
+    .btn-green {
+        position: relative;
+        display: inline-block;
+        color: #008000;
+        border: 1px solid #008000;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+    }
+
+    .btn-green::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #008000;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-green:hover {
+        color: white;
+    }
+
+    .btn-green:hover::before {
+        left: 0;
+    }
+
+    .btn-green svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-green:hover svg {
+        fill: white;
+    }
+
+    /**ESTO ES PAR DESHABILITAR, TONOS ROJOS */
+    .btn-red {
+        position: relative;
+        display: inline-block;
+        color: #df4759;
+        border: 1px solid #df4759;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+
+    }
+
+    .btn-red::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #df4759;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-red:hover {
+        color: white;
+    }
+
+    .btn-red:hover::before {
+        left: 0;
+    }
+
+    .btn-red svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-red:hover svg {
+        fill: white;
+    }
+
+    /**esto es tonos azules */
+    .btn-blue {
+        position: relative;
+        display: inline-block;
+        color: #318DF7;
+        border: 1px solid #318DF7;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-blue::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #318DF7;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-blue:hover {
+        color: white;
+    }
+
+    .btn-blue:hover::before {
+        left: 0;
+    }
+
+    .btn-blue svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-blue:hover svg {
+        fill: white;
+    }
+
+    /**esto es tonos INFO */
+    .btn-infoDos {
+        position: relative;
+        display: inline-block;
+        color: #17a2b8;
+        border: 1px solid #17a2b8;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-infoDos::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #17a2b8;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-infoDos:hover {
+        color: white;
+    }
+
+    .btn-infoDos:hover::before {
+        left: 0;
+    }
+
+    .btn-infoDos svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-blue:hover svg {
+        fill: white;
+    }
+
+    /**esto es tonos CAFES */
+    .btn-cafe {
+        position: relative;
+        display: inline-block;
+        color: #8D6E63;
+        border: 1px solid #8D6E63;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-cafe::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #8D6E63;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-cafe:hover {
+        color: white;
+    }
+
+    .btn-cafe:hover::before {
+        left: 0;
+    }
+
+    .btn-cafe svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-cafe:hover svg {
+        fill: white;
+    }
+
+    /**esto es tonos VERDEM LIMON */
+    .btn-limon {
+        position: relative;
+        display: inline-block;
+        color: #81C784;
+        border: 1px solid #81C784;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-limon::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #81C784;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-limon:hover {
+        color: white;
+    }
+
+    .btn-limon:hover::before {
+        left: 0;
+    }
+
+    .btn-limon svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-limon:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #dc3545;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+
+    }
+
+    /**esto es tonos LILA  */
+    .btn-lila {
+        position: relative;
+        display: inline-block;
+        color: #8E44AD;
+        border: 1px solid #8E44AD;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+        /* Asegura el fondo blanco inicial */
+    }
+
+    .btn-lila::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #8E44AD;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-lila:hover {
+        color: white;
+    }
+
+    .btn-lila:hover::before {
+        left: 0;
+    }
+
+    .btn-lila svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-lila:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #dc3545;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+    }
+
+    /* AHORA PARA TONOS EN TEAL  */
+    .btn-teal {
+        position: relative;
+        display: inline-block;
+        color: #008080;
+        border: 1px solid #008080;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+    }
+
+    .btn-teal::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #008080;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-teal:hover {
+        color: white;
+    }
+
+    .btn-teal:hover::before {
+        left: 0;
+    }
+
+    .btn-teal svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-teal:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #008080;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+    }
+
+    /* AHORA PARA TONOS EN amarillo medio oscuro   */
+    .btn-yellow {
+        position: relative;
+        display: inline-block;
+        color: #d4ac0d;
+        border: 1px solid #d4ac0d;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+    }
+
+    .btn-yellow::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #f1c40f;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-yellow:hover {
+        color: white;
+    }
+
+    .btn-yellow:hover::before {
+        left: 0;
+    }
+
+    .btn-yellow svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-yellow:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #d4ac0d;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+    }
+
+    /* AHORA PARA TONOS EN ROSA  */
+    .btn-pink {
+        position: relative;
+        display: inline-block;
+        color: #e91e63;
+        border: 1px solid #e91e63;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+    }
+
+    .btn-pink::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #e91e63;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-pink:hover {
+        color: white;
+    }
+
+    .btn-pink:hover::before {
+        left: 0;
+    }
+
+    .btn-pink svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-pink:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #e91e63;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+    }
+
+    /* AHORA PARA TONOS EN CELESTE  */
+    .btn-celeste {
+        position: relative;
+        display: inline-block;
+        color: #29b6f6;
+        border: 1px solid #29b6f6;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+    }
+
+    .btn-celeste::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #29b6f6;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-celeste:hover {
+        color: white;
+    }
+
+    .btn-celeste:hover::before {
+        left: 0;
+    }
+
+    .btn-celeste svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-celeste:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #29b6f6;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+    }
+
+    /* AHORA PARA TONOS EN LILA CLARO  */
+    .btn-lilaClaro {
+        position: relative;
+        display: inline-block;
+        color: #7986cb;
+        border: 1px solid #7986cb;
+        cursor: pointer;
+        overflow: hidden;
+        transition: color 0.5s;
+        background-color: white;
+    }
+
+    .btn-lilaClaro::before {
+        content: '';
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 100%;
+        width: 100%;
+        background-color: #7986cb;
+        z-index: 0;
+        transition: left 0.5s;
+    }
+
+    .btn-lilaClaro:hover {
+        color: white;
+    }
+
+    .btn-lilaClaro:hover::before {
+        left: 0;
+    }
+
+    .btn-lilaClaro svg {
+        position: relative;
+        z-index: 1;
+        transition: fill 0.5s;
+    }
+
+    .btn-lilaClaro:hover svg {
+        fill: white;
+    }
+
+    .is-invalid {
+        border-color: #7986cb;
+        box-shadow: 0 0 5px rgba(220, 53, 69, 0.75);
+    }
+
+    /* ---------- ----- ------- */
+    .glow {
+        box-shadow: 0 0 5px 2px green;
+    }
+
+    /* Estilos para centrar el toast y cambiar el color de fondo */
+    .toast-center {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 1060;
+        /* Z-index alto para que se superponga a otros elementos */
+    }
+
+    .toast-red .toast-header {
+        background-color: #dc3545;
+        color: white;
+    }
+
+    .toast-red .toast-body {
+        background-color: #f8d7da;
+        color: #721c24;
+    }
+
+    .sticky-col {
+        position: sticky;
+        right: 0;
+        background-color: white;
+        /* o bg de tu tabla */
+        z-index: 10;
+    }
+
+    .small-box.bg-animated-info {
+        background: linear-gradient(-45deg, #0d6efd, #17a2b8, #20c997, #0dcaf0);
+        background-size: 400% 400%;
+        animation: gradientMove 8s ease infinite;
+        color: #fff !important;
+    }
+
+    @keyframes gradientMove {
+        0% {
+            background-position: 0% 50%;
+        }
+
+        50% {
+            background-position: 100% 50%;
+        }
+
+        100% {
+            background-position: 0% 50%;
+        }
+    }

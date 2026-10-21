@@ -1,0 +1,1057 @@
+CODIGO;MEDICAMENTO;FORMA;CONCENTRACION;CUENTA;ID_CUENTA
+A0201;Hidroxido de Aluminio y Magnesio;Suspension;1:1 (120mL);1 121 01 01 01;93
+A0202;Omeprazol 20mg;Capsula;20mg;1 121 01 01 01;93
+A0205;Omeprazol;Inyectable;40mg/10mL;1 121 01 01 01;93
+A0206;Misoprostol;Comprimido;200ug;1 121 01 01 01;93
+A0207;Sucralfato 1g(5mL (200mL);Suspension;1 g/5ml (200 ml);1 121 01 01 01;93
+A0301;Atropina Sulfato;Inyectable;1mg/mL;1 121 01 01 01;93
+A0302;Butilbromuro de Hioscina (Butilescopolamina);Comprimido;10mg;1 121 01 01 01;93
+A0304;Butilbromuro de Hioscina (Butilescopolamina);Inyectable;20mg/mL;1 121 01 01 01;93
+A0306;Domperidona;Comprimido ranurado;10mg;1 121 01 01 01;93
+A0307;Metoclopramida;Comprimido ranurado;10mg;1 121 01 01 01;93
+A0308;Metoclopramida;Inyectable;5mg/mL (2mL);1 121 01 01 01;93
+A0309;Metoclopramida;Solucion oral gotas;0,35% o 0,5% (30mL);1 121 01 01 01;93
+A0310;Propinoxato;Comprimido;10mg;1 121 01 01 01;93
+A0311;Propinoxato;Inyectable;5mg/mL (4mL o 5mL);1 121 01 01 01;93
+A0312;Simeticona;Suspension (20mL);3% o 4%;1 121 01 01 01;93
+A0313;Simeticona;Comprimido masticable;100mg;1 121 01 01 01;93
+A0401;Ondansetron;Inyectable;8mg;1 121 01 01 01;93
+A0402;Ondansetron;Comprimido;8mg;1 121 01 01 01;93
+A0501;Acido Ursodesoxicolico;capsula;250 mg;1 121 01 01 01;93
+A0601;Aceite Mineral;Emulsion oral (100mL o 120ml);Segun Disponibilidad;1 121 01 01 01;93
+A0602;Bisacodilo;Comprimido;5mg;1 121 01 01 01;93
+A0604;Fibra Natural;Polvo o granulado (Sobre);Segun Disponibilidad;1 121 01 01 01;93
+A0606;Glicerol (Glicerina);Supositorio infaltil;1g a 1,8g;1 121 01 01 01;93
+A0607;Lactulosa;Solucion Oral;65% (200mL);1 121 01 01 01;93
+A0702;Loperamida;Capsula o comprimido;2mg;1 121 01 01 01;93
+A0704;Nistatina;Suspension;500.000UI/5mL (100mL);1 121 01 01 01;93
+A0706;Sales de Rehidratación Oral (SRO) baja Osmolaridad;Polvo (Sobre);Segun Disponibilidad;1 121 01 01 01;93
+A0901;Enzimas Pancreaticas (Lipasa, Proteasa y Amilasa) en combinación;Comprimido;Segun disponibilidad;1 121 01 01 01;93
+A1001;Glibenclamida;Comprimido ranurado;5mg;1 121 01 01 01;93
+A1002;Insulina Recombinante Humana NPH;Inyectable;100UI/mL;1 121 01 01 01;93
+A1003;Insulina Zinc cristalina recombinante humana;Inyectable;100UI/mL;1 121 01 01 01;93
+A1004;Metformina 850mg;Comprimido recubierto;850mg;1 121 01 01 01;93
+A1005;Insulina Glargina;Inyectable;100 UI/mL;1 121 01 01 01;93
+A1006;Insulina Glulisina;Inyectable;100UI/mL;1 121 01 01 01;93
+A1102;Acido Ascórbico (Vitamina C);Inyectable;500mg/mL (2mL);1 121 01 01 01;93
+A1103;Acido Ascórbico (Vitamina C);Solucion oral (gotas);Segun Disponibilidad;1 121 01 01 01;93
+A1104;Cianocobalamina (Vitamina B12);Inyectable;1mg/mL;1 121 01 01 01;93
+A1105;Colecalciferol (Vitamina D3);Comprimido o Capsula blanda;0,25ug;1 121 01 01 01;93
+A1106;Complejo B (B1+B6+B12) (fososensible);Comprimido;Segun concentracion estandar;1 121 01 01 01;93
+A1107;Complejo B (B1+B6+B12) (fososensible);Inyectable (IV-IM);Segun concentracion estandar;1 121 01 01 01;93
+A1108;Complejo de vitaminas y minerales (uso pediatrico) CMV;Polvo para solucion oral;Segun Disponibilidad (400g);1 121 01 01 01;93
+A1109;Multivitaminas+minerales+oligoelementos;Comprimido;Segun concentracion;1 121 01 01 01;93
+A1110;Multivitaminas+minerales+oligoelementos;Jarabe;Segun concentracion (100mL);1 121 01 01 01;93
+A1111;Piridoxina clorhidrato (vitamina B6);Comprimidos;300mg;1 121 01 01 01;93
+A1113;Retinol (Vitamina A);Capsula, Perla o comprimido recubierto;10.000UI;1 121 01 01 01;93
+A1115;Retinol (Vitamina A);Capsula o Perla;100.000 UI;1 121 01 01 01;93
+A1117;Tiamina (Vitamina B 1);Comprimido recubierto;300 mg;1 121 01 01 01;93
+A1119;Tocoferol (Vitamina E);Capsula blanda;1.000UI;1 121 01 01 01;93
+A1201;Calcio (Carbonato o citrato);Comprimido o Capsula;500 mg (iOn calcio);1 121 01 01 01;93
+A1202;Calcio + Vitamina D;Comprimido o Capsula;"500 mg (ion calcio); segun disponibilidad";1 121 01 01 01;93
+A1203;Cloruro de Potasio;Solucion oral;1,3mEq/mL;1 121 01 01 01;93
+A1205;Zinc;Solucion oral;20 mg/5mL;1 121 01 01 01;93
+A1206;Zinc (como Sulfato);Comprimido;20 mg;1 121 01 01 01;93
+B0101;Acido Acetil Salicílico;Comprimido de accion sostenida;100 mg;1 121 01 01 01;93
+B0103;Heparina de Bajo Peso Molecular;Inyectable;Segun Disponibilidad;1 121 01 01 01;93
+B0104;Heparina Sodica;Inyectable;5.000UI/mL;1 121 01 01 01;93
+B0105;Warfarina;Comprimido Ranurado;5mg;1 121 01 01 01;93
+B0106;Clopidogrel;Comprimido recubierto;75mg;1 121 01 01 01;93
+B0107;Rivaroxabán;Comprimido;10mg;1 121 01 01 01;93
+B0202;Fitomenadiona  (Vitamina K1);Inyectable;10mg/mL (IV-IM);1 121 01 01 01;93
+B0203;Etamsilato;Inyectable;250 mg/mL;1 121 01 01 01;93
+B0207;Acido Tranexamico;Comprimido;500 mg;1 121 01 01 01;93
+B0301;Acido Fólico;Comprimido;5 mg;1 121 01 01 01;93
+B0302;Eritropoyetina;Inyectable (liofilizado);10.000UI;1 121 01 01 01;93
+B0304;Hierro;Inyectable;100 mg (IV);1 121 01 01 01;93
+B0308;Sulfato Ferroso + Ac. Fólico + Vitamina C;Comprimido recubierto o Capsula;200+0,5+150mg;1 121 01 01 01;93
+B0309;Sulfato Ferroso + Ac. Fólico + Vitamina C;Solucion oral;125+0,25+30mg;1 121 01 01 01;93
+B0501;Agua para Inyección;Inyectable;5 mL;1 121 01 01 01;93
+B0502;Albumina Humana;Inyectable;0,2;1 121 01 01 01;93
+B0503;AminoAcidos (con electrolitos);Inyectable de gran volumen;10%  (500mL);1 121 01 01 01;93
+B0504;Bicarbonato de Sodio;Inyectable;8% (20mL);1 121 01 01 01;93
+B0506;Cloruro de Potasio;Inyectable;20% (10mL);1 121 01 01 01;93
+B0507;Cloruro de Sodio;Inyectable;20% (10mL);1 121 01 01 01;93
+B0509;Emulsión de Lípidos (con Trigliceridos de cadena mediana);Emulsion inyectable;10% (500mL);1 121 01 01 01;93
+B0510;Gluconato Cálcico (Calcio Gluconato);Inyectable;10% (10mL);1 121 01 01 01;93
+B0511;Oligoelementos Para Nutrición Parenteral;Inyectable;Segun Disponibilidad;1 121 01 01 01;93
+B0512;Agentes Con Gelatina;Inyectable de gran volumen;Segun disponibilidad;1 121 01 01 01;93
+B0513;Solucion Acida (Compatible con Equipos SSU);Inyectable de gran volumen;Segun Disponibilidad;1 121 01 01 01;93
+B0514;Solucion Básica (Compatible con Equipos SSU);Inyectable de gran volumen;Segun Disponibilidad;1 121 01 01 01;93
+B0515;Solucion de Glucosa;Inyectable de gran volumen;5% (500mL);1 121 01 01 01;93
+B0516;Solucion de Glucosa;Inyectable de gran volumen;5% (1000mL);1 121 01 01 01;93
+B0517;Solucion de Glucosa;Inyectable de gran volumen;10% (500mL);1 121 01 01 01;93
+B0518;Solucion de Glucosa;Inyectable de gran volumen;10% (1000mL);1 121 01 01 01;93
+B0519;Solucion de Glucosa;Inyectable de gran volumen;50% (500mL);1 121 01 01 01;93
+B0520;Solucion de glucosa;Inyectable;50% (20mL);1 121 01 01 01;93
+B0521;Solucion de manitol;Inyectable de gran volumen;20% (500mL);1 121 01 01 01;93
+B0522;Solucion Fisiologica;Inyectable de gran volumen;0,9% (500mL);1 121 01 01 01;93
+B0523;Solucion Fisiologica  0,9% (1000mL);Inyectable de gran volumen;0,9% (1000mL);1 121 01 01 01;93
+B0524;Solucion Glucosada Clorurada;Inyectable de gran volumen;Segun Disponibilidad (500mL);1 121 01 01 01;93
+B0525;Solucion Glucosada Clorurada;Inyectable de gran volumen;Segun Disponibilidad (1000mL);1 121 01 01 01;93
+B0529;Solucion Ringer Lactato;Inyectable de gran volumen;500 mL;1 121 01 01 01;93
+B0530;Solucion Ringer Lactato;Inyectable de gran volumen;1000 mL;1 121 01 01 01;93
+B0531;Solucion Ringer Normal;Inyectable de gran volumen;500 mL;1 121 01 01 01;93
+B0532;Solucion Ringer Normal;Inyectable de gran volumen;1000 mL;1 121 01 01 01;93
+B0533;Sulfato de Magnesio;Inyectable;10% (10mL);1 121 01 01 01;93
+C0102;Amiodarona (Clorhidrato);Comprimido ranurado;200 mg;1 121 01 01 01;93
+C0103;Amiodarona (Clorhidrato);Inyectable;50 mg/mL;1 121 01 01 01;93
+C0105;Digoxina;Inyectable;0,25 mg/mL;1 121 01 01 01;93
+C0106;Digoxina;Comprimido Biranurado;0,25 mg;1 121 01 01 01;93
+C0108;Dobutamina clorhidrato;Inyectable;250 mg;1 121 01 01 01;93
+C0109;Dopamina Clorhidrato;Inyectable;250 mg;1 121 01 01 01;93
+C0110;Epinefrina (Adrenalina);Inyectable;1mg/mL;1 121 01 01 01;93
+C0111;Mononitrato de Isosorbida (Isosorbide  Mononitrato);Comprimido;20 mg;1 121 01 01 01;93
+C0112;Nitroglicerina (Trinitrato de glicerol);Inyectable;5 mg/mL;1 121 01 01 01;93
+C0113;Etilefrina Clorhidrato;Inyectable;10 mg/mL;1 121 01 01 01;93
+C0115;Noradrenalina;Inyectable;1mg/mL;1 121 01 01 01;93
+C0116;Milrinona;inyectable;10 mg;1 121 01 01 01;93
+C0204;Metildopa (Alfametildopa);Comprimido;500 mg;1 121 01 01 01;93
+C0205;Nitropruciato de sodio;Ampolla;25 mg/mL;1 121 01 01 01;93
+C0208;Sildenafil;Comprimido;50 mg;1 121 01 01 01;93
+C0301;Acetazolamida;Comprimido;250 mg;1 121 01 01 01;93
+C0302;Espironolactona;Comprimido ranurado;100 mg;1 121 01 01 01;93
+C0303;Espironolactona;Comprimido;25 mg;1 121 01 01 01;93
+C0304;Furosemida;Comprido ranurado;40 mg;1 121 01 01 01;93
+C0305;Furosemida;Inyectable;10mg/mL;1 121 01 01 01;93
+C0306;Hidroclorotiazida;Comprimido ranurado;50 mg;1 121 01 01 01;93
+C0307;Hidroclorotiazida+Amilorida;Comprimido;50 mg+5 mg;1 121 01 01 01;93
+C0501;Corticoide + Anestésico;Supositorio;Segun Disponibilidad;1 121 01 01 01;93
+C0502;Corticoide + Anestésico;Crema o pomada;Segun Disponibilidad (30g);1 121 01 01 01;93
+C0701;Atenolol;Comprimido birranurado;100 mg;1 121 01 01 01;93
+C0702;Propranolol  ;Comprimido ranurado;40 mg;1 121 01 01 01;93
+C0704;Carvedilol;Comprimido ranurado;6,25 mg;1 121 01 01 01;93
+C0705;Carvedilol;Comprimido ranurado;12,5 mg;1 121 01 01 01;93
+C0706;Bisoprolol;comprimido;5mg;1 121 01 01 01;93
+C0707;Labetalol;inyectable;20 mg;1 121 01 01 01;93
+C0802;Nimodipina;Capsula o comprimido;30 mg;1 121 01 01 01;93
+C0807;Amlodipina;Comprimido ranurado;10 mg;1 121 01 01 01;93
+C0901;Enalapril Maleato;Comprimido ranurado;10 mg;1 121 01 01 01;93
+C0902;Losartán 50mg;Comprimido ranurado;50 mg;1 121 01 01 01;93
+C1001;Atorvastatina;Comprimido recubierto;10 mg;1 121 01 01 01;93
+C1002;Gemfibrozilo;Comprimido;600 mg;1 121 01 01 01;93
+C1005;Atorvastatina;Comprimido;20 mg;1 121 01 01 01;93
+D0101;Acido salicílico;Solucion;0,05;1 121 01 01 01;93
+D0102;Bacitracina + Neomicina Sulfato;Crema o pomada;500UI+5mg/g (10g);1 121 01 01 01;93
+D0103;Clotrimazol;Crema o pomada;1% (20g);1 121 01 01 01;93
+D0106;Tolnaftato;Solucion;0,01;1 121 01 01 01;93
+D0201;Glicerol (Glicerina);Solucion;Segun disponibilidad;1 121 01 01 01;93
+D0202;Oxido de Zinc con o sin Aceite;Pasta o pomada;Segun Disponibilidad (35g);1 121 01 01 01;93
+D0203;Unguento Dérmico Eucalipto Mentol;Unguento o crema;Segun Disponibilidad;1 121 01 01 01;93
+D0204;Vaselina líquida;Solucion;1 L;1 121 01 01 01;93
+D0205;Vaselina solida;Pasta;1 Kg;1 121 01 01 01;93
+D0401;Lidocaina  ;Gel o jalea;2% (30mL);1 121 01 01 01;93
+D0402;Lidocaina Clorhidrato;Solucion para atomizacion;10 mg;1 121 01 01 01;93
+D0601;Resina de Podofilo (Podofilina);Solucion topica;10% o 25%;1 121 01 01 01;93
+D0602;Sulfadiazina de Plata;Crema o pomada;1% (60g);1 121 01 01 01;93
+D0603;Aciclovir;Crema;0,05;1 121 01 01 01;93
+D0701;Betametasona (Valerato);Crema o pomada;0,1% (15g);1 121 01 01 01;93
+D0702;Clobetasol;Crema o pomada;0,05% (25g);1 121 01 01 01;93
+D0703;Clobetasol;Solucion;0,0005;1 121 01 01 01;93
+D0704;Hidrocortisona Acetato;Crema o pomada;1% (10g);1 121 01 01 01;93
+D0801;Alcohol etìlico (Etanol);Solucion;70% o 90% (1 Litro);1 121 01 01 01;93
+D0802;Clorhexidina gluconato (solucion espumante);Solucion;2 % (1 L);1 121 01 01 01;93
+D0803;Eter alifático dietilamino etanol;Solucion;1 L;1 121 01 01 01;93
+D0804;Formaldehido (Formol);Solucion;0,4;1 121 01 01 01;93
+D0805;Hipoclorito de sodio;Solucion;8% (1 litro);1 121 01 01 01;93
+D0806;Iodo (Yodo);Solucion hidroalcoholica;2% (1 litro);1 121 01 01 01;93
+D0807;Iodopovidona (Yodo Povidona);Crema o pomada;10% (500g);1 121 01 01 01;93
+D0808;Iodo povidona;Solucion;10% (1 litro);1 121 01 01 01;93
+D0809;Nitrofural (Nutrofurazona);Crema o pomada;0,2% (450g);1 121 01 01 01;93
+D0810;Peroxido de hidrógeno (Agua Oxigenada);Solucion;2% o 3% (1 litro);1 121 01 01 01;93
+D1001;Eritromicina;Locion;2% a 4%;1 121 01 01 01;93
+D1003;Peroxido de Benzoilo;Crema, pomada o gel;5% (60 g);1 121 01 01 01;93
+D1004;Resorcinol;Crema o pomada;0,1;1 121 01 01 01;93
+D1101;Hidroquinona;Locion;4% o 5%;1 121 01 01 01;93
+D1102;Hidroquinona;Crema o pomada;4% a 5%;1 121 01 01 01;93
+G0102;Clotrimazol;Ovulo;100 mg;1 121 01 01 01;93
+G0103;Clotrimazol;Crema vaginal;1%  (30g);1 121 01 01 01;93
+G0104;Metronidazol  ;Ovulo;500 mg;1 121 01 01 01;93
+G0203;Ergometrina Maleato  ;Comprimido;0,2 mg;1 121 01 01 01;93
+G0204;Ergometrina Maleato   ;Inyectable;0,2 mg/mL;1 121 01 01 01;93
+G0209;Oxitocina;Inyectable;10UI/mL;1 121 01 01 01;93
+G0309;Estrogenos Conjugados;Crema vaginal;0,625 mg;1 121 01 01 01;93
+G0401;Finasteride;Comprimido;5 mg;1 121 01 01 01;93
+H0102;Desmopresina Acetato;Solucion;0,1 mg/mL;1 121 01 01 01;93
+H0105;Carbetocina;PIEZA;PIEZA;1 121 01 01 01;93
+H0201;Betametasona (Fosfato);Inyectable;4 mg;1 121 01 01 01;93
+H0202;Dexametasona;Comprimido;4 mg;1 121 01 01 01;93
+H0203;Dexametasona;Comprimido;0,5 mg;1 121 01 01 01;93
+H0204;Dexametasona;Inyectable;4 mg/mL;1 121 01 01 01;93
+H0205;Hidrocortisona Succinato Sodico;Inyectable;100 mg;1 121 01 01 01;93
+H0206;Hidrocortisona Succinato Sodico;Inyectable;250 mg;1 121 01 01 01;93
+H0207;Metilprednisolona succinato Sodico;Inyectable;500 mg;1 121 01 01 01;93
+H0208;Prednisona  ;Comprimido ranurado;5 mg;1 121 01 01 01;93
+H0209;Prednisona;Comprimido ranurado;20 mg;1 121 01 01 01;93
+H0210;Prednisona;Suspension;1mg/mL;1 121 01 01 01;93
+H0213;Betametasona (acetato fosfato);Inyectable;Segun Disponibilidad;1 121 01 01 01;93
+H0301;Levotiroxina Sodica  ;Comprimido ranurado;0,1mg;1 121 01 01 01;93
+H0302;Propiltiouracilo;Comprimido;50 mg;1 121 01 01 01;93
+J0101;Acido Nalidixico;Comprimido;500 mg;1 121 01 01 01;93
+J0102;Acido Nalidixico;Suspension;250 mg/5mL;1 121 01 01 01;93
+J0104;Amikacina;Inyectable;500 mg/2mL;1 121 01 01 01;93
+J0105;Amoxicilina;Comprimido ranurado;1g;1 121 01 01 01;93
+J0108;Amoxicilina;Inyectable;1g;1 121 01 01 01;93
+J0110;Amoxicilina+Inhibidor Betalactamasa;Suspension;250+Segun disponibilidad (100mL);1 121 01 01 01;93
+J0111;Amoxicilina+Inhibidor Betalactamasa;Inyectable;1g + 500 mg;1 121 01 01 01;93
+J0112;Ampicilina;Inyectable; 1 g;1 121 01 01 01;93
+J0113;Azitromicina;Comprimido;500 mg;1 121 01 01 01;93
+J0115;Penicilina Benzatinica;Inyectable (IM);1.200.000UI;1 121 01 01 01;93
+J0121;Cefazolina;Inyectable (IV-IM);1 g;1 121 01 01 01;93
+J0122;Cefotaxima;Inyectable;1 g;1 121 01 01 01;93
+J0123;Cefradina;Capsula o comprimido;500 mg;1 121 01 01 01;93
+J0124;Cefradina;Suspension;250 mg/5mL (100mL);1 121 01 01 01;93
+J0125;Ceftazidima;Inyectable (IV-IM);1 g;1 121 01 01 01;93
+J0126;Ceftriaxona;Inyectable;1 g;1 121 01 01 01;93
+J0127;Ciprofloxacina   (fososensible);Comprimido recubierto;500 mg;1 121 01 01 01;93
+J0128;Ciprofloxacina  ;Inyectable;200 mg;1 121 01 01 01;93
+J0129;Claritromicina;Comprimido recubierto;500 mg;1 121 01 01 01;93
+J0130;Claritromicina;Suspension;250 mg/5mL (80mL);1 121 01 01 01;93
+J0134;Cloxacilina;Inyectable;500 mg;1 121 01 01 01;93
+J0137;Cotrimoxazol (Sulfametoxazol - Trimetoprima);Comprimido ranurado;800+160 mg;1 121 01 01 01;93
+J0138;Cotrimoxazol (Sulfametoxazol - Trimetoprima);Suspension;200+40 mg/5mL (100mL);1 121 01 01 01;93
+J0141;Dicloxacilina Sodica;Capsula;500 mg;1 121 01 01 01;93
+J0142;Dicloxacilina Sodica;Suspension;250 mg/5mL;1 121 01 01 01;93
+J0144;Doxiciclina;Capsula o comprimido;100 mg;1 121 01 01 01;93
+J0145;Eritromicina Estearato;Capsula o comprimido;500 mg;1 121 01 01 01;93
+J0149;Gentamicina Sulfato;Inyectable (IV-IM);80 mg;1 121 01 01 01;93
+J0150;Imipenem + Cilastatina;Inyectable (IV);500 mg+500mg;1 121 01 01 01;93
+J0151;Nitrofurantoína;Comprimido ranurado;100 mg;1 121 01 01 01;93
+J0152;Nitrofurantoína;Suspension;25 mg/5mL;1 121 01 01 01;93
+J0155;Vancomicina;Inyectable (IV);500 mg;1 121 01 01 01;93
+J0157;Amoxicilina;Suspension;500 mg/5mL (100mL);1 121 01 01 01;93
+J0158;Cefixima;Comprimido;400 mg;1 121 01 01 01;93
+J0160;Cotrimoxazol (Sulfametoxazol - Trimetoprima);Inyectable;400 mg+80mg/5mL;1 121 01 01 01;93
+J0162;Azitromicina;Suspension;200 MG/ 5ML;1 121 01 01 01;93
+J0163;Cefixima;Suspension;100 mg/5mL;1 121 01 01 01;93
+J0164;Clindamicina;Inyectable;600 mg;1 121 01 01 01;93
+J0166;Levofloxacina;Comprimido;500 mg;1 121 01 01 01;93
+J0167;Colistina;Inyectable;100 mg;1 121 01 01 01;93
+J0168;Levofloxacina;Inyectable;500 mg/mL;1 121 01 01 01;93
+J0169;Meropenem;Inyectable;500 mg;1 121 01 01 01;93
+J0171;Amoxicilina + Inhibidor betalactamasa;Comprimido;875 mg + Segun disponibilidad;1 121 01 01 01;93
+J0202;Fluconazol;Inyectable;200 mg;1 121 01 01 01;93
+J0204;Griseofulvina;Comprimido;500 mg;1 121 01 01 01;93
+J0208;Fluconazol;Comprimido;150 mg;1 121 01 01 01;93
+J0209;Voriconazol;Frasco;200MG;1 121 01 01 01;93
+J0403;Dapsona;Capsula;100 mg;1 121 01 01 01;93
+J0529;Valganciclovir;Comprimido;450 mg;1 121 01 01 01;93
+J0536;Oseltamivir;Capsula;75 mg;1 121 01 01 01;93
+J0543;Aciclovir;Comprimido;800 mg;1 121 01 01 01;93
+J0545;Aciclovir;Inyectable;500 mg;1 121 01 01 01;93
+J0602;Inmunoglobulina anti D (RH+);Inyectable;1 mg/mL;1 121 01 01 01;93
+J0603;Inmunoglobulina humana normal;Inyectable;5g o5%;1 121 01 01 01;93
+J0705;Vacuna Antihepatitis B;Inyectable;0;1 121 01 01 01;93
+L0101;Bleomicina;Inyectable;15UI;1 121 01 01 01;93
+L0103;Capecitabine;Comprimido;500 mg;1 121 01 01 01;93
+L0104;Carboplatino  ;Inyectable;450 mg;1 121 01 01 01;93
+L0105;Ciclofosfamida;Inyectable;500 mg;1 121 01 01 01;93
+L0106;Ciclofosfamida;Inyectable;1 g;1 121 01 01 01;93
+L0107;Ciclofosfamida;Inyectable;50 mg;1 121 01 01 01;93
+L0109;Cisplatino;Inyectable;50 mg;1 121 01 01 01;93
+L0110;Citarabina;Inyectable;100 mg;1 121 01 01 01;93
+L0111;Citarabina;Inyectable;500 mg;1 121 01 01 01;93
+L0112;Dacarbazina;Inyectable;200 mg;1 121 01 01 01;93
+L0114;Doxorubicina Clorhidrato (Adriamicina Clorh.);Inyectable;10 mg;1 121 01 01 01;93
+L0115;Doxorubicina Clorhidrato (Adriamicina Clorh.);Inyectable;50 mg;1 121 01 01 01;93
+L0116;Etopósido;Inyectable;100 mg/5mL;1 121 01 01 01;93
+L0117;Fluorouracilo;Inyectable;500 mg/10mL;1 121 01 01 01;93
+L0118;Gemcitabine;Inyectable;1 g;1 121 01 01 01;93
+L0119;Hidroxiurea;Comprimido;500 mg;1 121 01 01 01;93
+L0120;Ifosfamida;Inyectable;1 g;1 121 01 01 01;93
+L0121;Asparaginasa;Inyectable;10.000UI;1 121 01 01 01;93
+L0122;Melfalán  ;Comprimido;2 mg;1 121 01 01 01;93
+L0123;Mercaptopurina;Comprido ranurado;50 mg;1 121 01 01 01;93
+L0124;Metotrexato;Inyectable;50 mg;1 121 01 01 01;93
+L0125;Metotrexato;Inyectable;500 mg;1 121 01 01 01;93
+L0126;Metotrexato;Comprimido;2,5 mg;1 121 01 01 01;93
+L0127;Mitomicina;Inyectable;20 mg;1 121 01 01 01;93
+L0128;Paclitaxel;Inyectable;30 mg/5mL;1 121 01 01 01;93
+L0129;Vinblastina;Inyectable;1mg/mL;1 121 01 01 01;93
+L0130;Vincristina;Inyectable;1mg/mL;1 121 01 01 01;93
+L0131;Vinorelbina;Inyectable;50 mg;1 121 01 01 01;93
+L0132;Carboplatino  ;Inyectable;150 mg;1 121 01 01 01;93
+L0135;Oxaliplatino;Inyectable;100 mg;1 121 01 01 01;93
+L0136;Bevacizumab;Inyectable;25 mg/mL;1 121 01 01 01;93
+L0138;Docetaxel;Inyectable;40 mg/mL (2mL);1 121 01 01 01;93
+L0139;Vinblastina;Inyectable;10 mg;1 121 01 01 01;93
+L0140;Irinotecan;Inyectable;100 mg;1 121 01 01 01;93
+L0141;Rituximab;Inyectable;500 mg/50mL;1 121 01 01 01;93
+L0142;Trastuzumab;Inyectable;440 mg;1 121 01 01 01;93
+L0143;Trastuzumab;Inyectable Subcutaneo;600 mg;1 121 01 01 01;93
+L0148;Doxorubicina Liposomal Pegilada;Inyectable;20 mg/10mL;1 121 01 01 01;93
+L0150;Imatinib;Comprimido;400 mg;1 121 01 01 01;93
+L0151;Temozolamida;Capsula;20 mg;1 121 01 01 01;93
+L0152;Temozolamida;Capsula;100 mg;1 121 01 01 01;93
+L0153;Temozolamida;Capsula;250 mg;1 121 01 01 01;93
+L0155;Bortezomib 3,5mg;Inyectable;3,5mg;1 121 01 01 01;93
+L0156;Rituximab 100mg/10mL;Inyectable;100mg/10mL;1 121 01 01 01;93
+L0157;Pazopanib;Comprimido;200 mg;1 121 01 01 01;93
+L0160;Paclitaxel;Inyectable;300 mg;1 121 01 01 01;93
+L0201;Anastrozol;Comprimido;1 mg;1 121 01 01 01;93
+L0202;Ciproterona (Acetato);Comprimido;50 mg;1 121 01 01 01;93
+L0203;Flutamida;Comprimido;250 mg;1 121 01 01 01;93
+L0204;Letrozol;Comprimido;2,5 mg;1 121 01 01 01;93
+L0205;Tamoxifeno;Comprimido;20 mg;1 121 01 01 01;93
+L0207;Triptorelina;Inyectable;11,25 mg;1 121 01 01 01;93
+L0208;Triptorelina;Inyectable;22,5 mg;1 121 01 01 01;93
+L0209;Acetato de Abiraterona;Comprimido;250 mg;1 121 01 01 01;93
+L0210;Acetato de Leuprolide;Inyectable Subcutaneo;7,5 mg;1 121 01 01 01;93
+L0211;Enzalutamida;Capsula Blanda;40 mg;1 121 01 01 01;93
+L0211;Bicalutamida;Comprimido;500 mg;1 121 01 01 01;93
+L0301;Filgrastrim;Inyectable;300mcg/mL;1 121 01 01 01;93
+L0302;Interferon Alfa 2b Recombinante;Inyectable;10.000.000UI;1 121 01 01 01;93
+L0303;Interferon Alfa 2b Recombinante;Inyectable;3.000.000UI;1 121 01 01 01;93
+L0304;Interferon Beta 1b 8 millones de UI/mL;Inyectable (con jeringa aplicadora);0,3 mg;1 121 01 01 01;93
+L0401;Azatioprina  ;Comprimido;50 mg;1 121 01 01 01;93
+L0403;Ciclosporina;Solucion Oral;100mg/mL;1 121 01 01 01;93
+L0404;Ciclosporina;Capsula Blanda;100mg;1 121 01 01 01;93
+L0407;Micofenolato de mofetilo  ;Comprimido;500 mg;1 121 01 01 01;93
+L0408;Talidomida;Comprimido;100 mg;1 121 01 01 01;93
+L0409;Basiliximab 20 mg;Polvo para inyectable;20 mg;1 121 01 01 01;93
+L0410;Tacrolimus;Comprimido;1mg;1 121 01 01 01;93
+L0415;Lenalidomide;Capsula;10 mg;1 121 01 01 01;93
+L0417;Lenalidomide;Capsula;25 mg;1 121 01 01 01;93
+M0101;Diclofenaco;Pomada o gel;0,01;1 121 01 01 01;93
+M0102;Diclofenaco Sodico;Comprimido recubierto;50 mg;1 121 01 01 01;93
+M0103;Diclofenaco Sodico;Inyectable (IV-IM);75 mg;1 121 01 01 01;93
+M0104;Ibuprofeno;Suspension;100 mg/5mL (100mL);1 121 01 01 01;93
+M0105;Ibuprofeno;Comprimido recubierto;400 mg;1 121 01 01 01;93
+M0106;Indometacina;Capsula o comprimido;25 mg;1 121 01 01 01;93
+M0107;Indometacina;Supositorio;100 mg;1 121 01 01 01;93
+M0109;Ketorolaco;Inyectable;30 mg/mL;1 121 01 01 01;93
+M0110;Ketoprofeno;Inyectable;100 mg;1 121 01 01 01;93
+M0111;Meloxicam;Comprimido ranurado;15 mg;1 121 01 01 01;93
+M0301;Atracurio Besilato;Inyectable;10mg/mL;1 121 01 01 01;93
+M0302;Mivacuronio;Inyectable;200mg;1 121 01 01 01;93
+M0303;Rocuronio Bromuro;Inyectable;10mg/mL;1 121 01 01 01;93
+M0304;Suxametonio (Succinil Colina);Inyectable;500mg;1 121 01 01 01;93
+M0401;Alopurinol;Comprimido ranurado;300mg;1 121 01 01 01;93
+M0402;Colchicina  (fososensible);Comprimido;0,5mg;1 121 01 01 01;93
+M0503;Acido AlendrOnico (Alendronato);Comprimido recubierto;70mg;1 121 01 01 01;93
+M0504;Acido Zoledronico;Inyectable;4mg;1 121 01 01 01;93
+N0101;Bupivacaina Clorhidrato sin conservante;Inyectable (10mL Apk);0,005;1 121 01 01 01;93
+N0102;Bupivacaina Clorhidrato (Pesada);Inyectable (10mL Apk);0,005;1 121 01 01 01;93
+N0103;Bupivacaina Clorhidrato c/epinefrina sin conservante;Inyectable;0,5%/ 1:200.000;1 121 01 01 01;93
+N0104;Droperidol;inyectable;2,5mg/ml;NULL;NULL
+N0107;Halotano de Timol;Solucion;0,0001;1 121 01 01 01;93
+N0108;Ketamina (Cetamina);Inyectable;50mg/mL;1 121 01 01 01;93
+N0110;Lidocaina Clorhidrato + Epinefrina;Inyectable;2% 1.200.00;1 121 01 01 01;93
+N0112;Lidocaina Clorhidrato sin conservante;Inyectable (10mL Apk);0,02;1 121 01 01 01;93
+N0113;Propofol;Inyectable;10mg/mL;1 121 01 01 01;93
+N0114;Sevoflurano (Trifluorometil Etil);Solucion;250mL;1 121 01 01 01;93
+N0115;Tiopental Sodico;Inyectable;1g;1 121 01 01 01;93
+N0203;Ergotamina Tartrato + Cafeina  ;Comprimido;1mg+100mg;1 121 01 01 01;93
+N0205;Metamizol  (Dipirona)   ;Inyectable (IV-IM);1g (4mL o 5mL);1 121 01 01 01;93
+N0208;Paracetamol (Acetaminofeno)  ;Comprimido ranurado;500mg;1 121 01 01 01;93
+N0209;Paracetamol (Acetaminofeno)  ;Jarabe;125mg/5mL (100mL);1 121 01 01 01;93
+N0210;Paracetamol (Acetaminofeno)  ;Gotas;100mg/mL;1 121 01 01 01;93
+N0211;Paracetamo (Acetaminofeno);Supositorio;100mg;1 121 01 01 01;93
+N0214;Tramadol;Inyectable;100mg/2ml;1 121 01 01 01;93
+N0215;Tramadol;Comprimido;50mg;1 121 01 01 01;93
+N0216;Naratriptan;Comprimido;2,5mg;1 121 01 01 01;93
+N0217;Tramadol;Gotas;100mg/mL;1 121 01 01 01;93
+N0218;Paracetamol;Inyectable;1G;1 121 01 01 01;93
+N0301;Ácido Valproico;Jaraba o Solucion oral;200 mg/5ml;1 121 01 01 01;93
+N0303;Acido Valproico O Valproato Sodico;Capsula o comprimido;500mg;1 121 01 01 01;93
+N0304;Carbamazepina;Comprimido ranurado;200mg;1 121 01 01 01;93
+N0307;Fenitoína;Inyectable;50 mg/ml;1 121 01 01 01;93
+N0308;Fenitoína  ;Capsula o comprimido;100mg;1 121 01 01 01;93
+N0320;Pregabalina;Capsula o comprimido;75mg;1 121 01 01 01;93
+N0321;Pregabalina;Comprimido trirranurado o Capsula;150mg;1 121 01 01 01;93
+N0322;Acido Valproico (Con Dosificador o jeringa);Jarabe o Solucion Oral;200mg/mL;1 121 01 01 01;93
+N0401;Biperideno Clorhidrato;Comprimido;4mg;1 121 01 01 01;93
+N0402;Levodopa + Carbidopa  ;Comprimido;250mg+25mg;1 121 01 01 01;93
+N0507;Haloperidol  ;Solucion;2mg/mL;1 121 01 01 01;93
+N0508;Haloperidol;Comprimidos;5mg;1 121 01 01 01;93
+N0509;Haloperidol Decanoatos;Inyectable;50mg/mL;1 121 01 01 01;93
+N0510;Carbonato de Litio;Comprimido;300mg;1 121 01 01 01;93
+N0512;Risperidona;Comprimido;3mg;1 121 01 01 01;93
+N0516;Aripiprazol;Comprimdo;15mg;1 121 01 01 01;93
+N0518;Quetiapina;Comprimido;100mg;1 121 01 01 01;93
+N0519;Dexmedetomidina;Inyectable;100mcg/ml;1 121 01 01 01;93
+N0601;Amitriptilina;Comprimido ranurado;25mg;1 121 01 01 01;93
+N0602;Clomipramina;Comprimido;75mg;1 121 01 01 01;93
+N0604;Fluoxetina;Capsula o comprimido;20mg;1 121 01 01 01;93
+N0605;Imipramina Clorhidrato;Comprimido;25mg;1 121 01 01 01;93
+N0606;Metilfenidato;Comprimido;10mg;1 121 01 01 01;93
+N0607;Cafeina;Inyectable;10mg/ml;1 121 01 01 01;93
+N0608;Duloxetina;Comprimido;30mg;1 121 01 01 01;93
+N0701;Dimenhidrinato;Comprimido ranurado;50mg;1 121 01 01 01;93
+N0703;Dimenhidrinato;Inyectable;50mg/mL;1 121 01 01 01;93
+N0705;Neostigmina;Inyectable (IV-IM);0,5mg/mL;1 121 01 01 01;93
+N0706;Piridostigmina bromuro;Comprimidos;60mg;1 121 01 01 01;93
+P0103;Cloroquina Fosfato   150mg Base;Comprimido;250mg;1 121 01 01 01;93
+P0106;Metronidazol  ;Suspension;250mg/5mL (100mL);1 121 01 01 01;93
+P0107;Metronidazol   ;Inyectable;500mg;1 121 01 01 01;93
+P0109;Metronidazol;Comprimido;500mg;1 121 01 01 01;93
+P0126;Nitazoxanida;Jarabe;100mg/5ml;1 121 01 01 01;93
+P0127;Hidroxicloroquina sulfato;Comprimido recubierto;200mg;1 121 01 01 01;93
+P0201;Albendazol;Comprimido;200mg;1 121 01 01 01;93
+P0203;Mebendazol;Comprimido;100mg;1 121 01 01 01;93
+P0204;Mebendazol;Suspension;100mg/mL;1 121 01 01 01;93
+P0214;Ivermectina;Comprimido;Sin Especificar;1 121 01 01 01;93
+P0301;Benzoato de bencilo;Solucion o locion;20 % o 25 %;1 121 01 01 01;93
+P0303;Permetrina;Crema;0,05;1 121 01 01 01;93
+R0301;Aminofilina;Inyectable;25mg/mL;1 121 01 01 01;93
+R0302;Aminofilina   ;Comprimido ranurado;200mg;1 121 01 01 01;93
+R0303;Beclometasona Dipropionato Oral;Aerosol;50mcg/Inh;1 121 01 01 01;93
+R10303;Corticoide Nasal;Aerosol;50mcg/inh;1 121 01 01 01;93
+R0306;Salbutamol;Aerosol;0,1mg/Inh;1 121 01 01 01;93
+R0309;Ipratropio Bromuro;Aerosol;20mug/dosis;1 121 01 01 01;93
+R0311;Salmeterol+Fluticasona;Aerosol;125ug+25ug;1 121 01 01 01;93
+R0501;Antigripal;Comprimido;(Paracetamol+antihistamínico+Vasoconstrictor c/s Cafeina);1 121 01 01 01;93
+R0502;Codeína (fososensible);Jarabe;10mg/5mL;1 121 01 01 01;93
+R0503;Dextrometorfano Bromhidrato   (fososensible);Jarabe;10mg/5mL;1 121 01 01 01;93
+R0601;Clorfenamina (Clorfeniramina) (fososensible);Comprimido;4mg;1 121 01 01 01;93
+R0602;Clorfenamina (Clorfeniramina)  (fososensible);Jarabe;2mg/5mL (100mL);1 121 01 01 01;93
+R0603;Clorfenamina (Clorfeniramina) (fososensible);Inyectable (IV-IM);10mg/mL;1 121 01 01 01;93
+R0607;Cetirizina;Comprimido o Capsula;10mg;1 121 01 01 01;93
+R0608;Cetirizina;Jarabe;5mg/5mL;1 121 01 01 01;93
+R0701;Surfactante pulmonar;Ampolla;25 o 30mg/mL;1 121 01 01 01;93
+S0101;Aciclovir;Crema o pomada oftOlmica;0,03;1 121 01 01 01;93
+S0102;Atropina Sulfato;Solucion oftalmica;0,01;1 121 01 01 01;93
+S0104;Ciprofloxacina;Solucion oftalmica;0,003;1 121 01 01 01;93
+S0105;Cloranfenicol;Solucion oftalmica;0,005;1 121 01 01 01;93
+S0106;Cloranfenicol;Ungüento Oftálmico;0,01;1 121 01 01 01;93
+S0109;Dexametasona   (fososensible);Solucion oftalmica;0,001;1 121 01 01 01;93
+S0111;Diclofenaco;Solucion oftalmica;0,001;1 121 01 01 01;93
+S0112;Dorzolamida;Solucion oftalmica;0,02;1 121 01 01 01;93
+S0115;Gentamicina;Unguento oftalmica(5g);0,003;1 121 01 01 01;93
+S0116;Gentamicina;Solucion oftalmica;0,003;1 121 01 01 01;93
+S0117;Ketotifeno;Solucion oftalmica;0,25mg/mL;1 121 01 01 01;93
+S0118;Lágrimas Artificiales;Solucion oftalmica;0,3% o 1%;1 121 01 01 01;93
+S0119;Nafazolina Clorhidrato;Solucion oftalmica;0,001;1 121 01 01 01;93
+S0120;Proximetacaína (Proparacaína);Solucion oftalmica;0,005;1 121 01 01 01;93
+S0122;Timolol Maleato;Solucion oftalmica;0,005;1 121 01 01 01;93
+S0124;Corticoide+Antiinfeccioso de Acción Tópica (Diferentes a los monofarmacos oftálmicos contemplados en LINAME);Solucion oftalmica;Segun Disponibilidad;1 121 01 01 01;93
+S0125;Corticoide+Antiinfeccioso de Acción Tópica (Diferentes a los monofarmacos oftOlmicos contemplados en LINAME);UngOento oftalmica;Segun Disponibilidad;1 121 01 01 01;93
+S0126;Lágrimas Artificiales;Gel;Segun Disponibilidad;1 121 01 01 01;93
+S0127;Latanoprost;Solucion oftalmica;50mcg/mL;1 121 01 01 01;93
+S0201;Glicerina+Carbonato de sodio;Gotas Oticas;Segun Disponibilidad;1 121 01 01 01;93
+V0301;acetilcisteina;Inyectable;10% (IV-IM);1 121 01 01 01;93
+V0305;Flumazenil;Inyectable;0,5mg/5mL;1 121 01 01 01;93
+V0307;Leucovorina;Inyectable;50mg;1 121 01 01 01;93
+V0308;Mesna (Mercapto Etilsulfonato Sodico);Inyectable;400mg;1 121 01 01 01;93
+V0309;Naloxona;Inyectable;0,4mg/mL;1 121 01 01 01;93
+V0313;Protamina sulfato;Ampolla;10mg/mL;1 121 01 01 01;93
+V0601;Proteinas Para Alimentación Enteral (Alimento);Polvo;Segun Disponibilidad (400g);1 121 01 01 01;93
+V0604;Complemento Nutricional CARMELO;Polvo;Segun Concentracion;1 121 01 01 01;93
+V0802;Contraste Iodado;Inyectable   (via intratecal, intravacular, intrarterial);Segun Disponibilidad (50mL);1 121 01 01 01;93
+V0808;Sulfato De Bario  ORAL;Suspension;95% a 98%;1 121 01 01 01;93
+V0809;Sulfato De Bario  RECTAL;Polvo para enema;95% a 97,4%;1 121 01 01 01;93
+X0721;Hialuronato de sodio;Solucion oftalmica;4mg/mL;1 121 01 01 01;93
+W0517;Aminoacidos+Vitaminas+Cafeina  (TONICO INTI);Jarabe;Según disponibilidad;1 121 01 01 01;93
+W0620;Clozapina;comprimido;100 mg ;1 121 01 01 01;93
+W1015;Sunitinib maleato ;Cápsulas;25mg;1 121 01 01 01;93
+W1019;Sunitinib maleato;Comprimido;12,5mg;1 121 01 01 01;93
+W1052;Lenvatinib;Comprimido;4 mg;1 121 01 01 01;93
+W1054;Sunitinib maleato;Capsula;50 mg;1 121 01 01 01;93
+DAC001;Aguja Hipodermica descartable;Pieza;N° 18 G x 1 ½;1 121 01 01 01;93
+DAC004;Aguja Hipodermica descartable;Pieza; Nº 23 X 1;1 121 01 01 02;94
+DAC007;Aguja Hipodermica descartable;Pieza;Nª 25 G x 5/8;1 121 01 01 02;94
+DAC008;Aguja Hipodermica descartable;Pieza;Nª 21 G x 1 ½;1 121 01 01 02;94
+DAC009;Aguja Hipodermica descartable;Pieza;Nª 22 G x 1 ½;1 121 01 01 02;94
+DAC010;Aguja Hipodermica descartable;Pieza;Nª 23 G x 1 ½;1 121 01 01 02;94
+DAC013;Aguja guía y aguja raquídea punta de lápiz bisel Sprote;Pieza;"Nº 25x3""";1 121 01 01 02;94
+DAC014;Aguja guía y aguja raquídea punta de lápiz bisel Sprote;Pieza;"Nº 27GX 31/2""   (0,4 X 88mm)";1 121 01 01 02;94
+DAC015;Aguja Neuroestimuladora;Pieza;A-25;1 121 01 01 02;94
+DAC016;Aguja Neuroestimuladora;Pieza;A-50;1 121 01 01 02;94
+DAC017;Aguja Raquídea (espinal) bisel punta lapiz larga;Pieza;G-27x120mm;1 121 01 01 02;94
+DAC019;Aguja raquidea bisel quincke;Pieza;G-20 X 3 1/2;1 121 01 01 02;94
+DAC020;Aguja raquidea bisel quincke;Pieza;"G -22 de 3 1/2""";1 121 01 01 02;94
+DAC021;Aguja epidural bisel Touthy;Pieza;"Nº 18 x 3 1/4""";1 121 01 01 02;94
+DAC022;Aguja para Fistula Arteriovenosa;Par;Nº 15G;1 121 01 01 02;94
+DAC023;Aguja para Fístula Arteriovenosa, Nª 16 G;Par;Nº 16G;1 121 01 01 02;94
+DAC024;Aguja para Fístula Arteriovenosa, Nª 17 G;Par;Nº  17G;1 121 01 01 02;94
+DAC029;Bolsa para transfusion de sangre simple;Pieza;0;1 121 01 01 02;94
+DAC036;Cateter doble J ;Pieza;6 Fr   22cm de largo;1 121 01 01 02;94
+DAC038;Cateter doble J ;Pieza; 7 Fr  26a28 cm de largo;1 121 01 01 02;94
+DAC040;Cateter doble J ;Pieza;6 Fr x 24 cm con guia hidrofilica;1 121 01 01 02;94
+DAC042;Cateter doble lúmen Neonatal ;Pieza;4 Fr x 13 cm con guia;1 121 01 01 02;94
+DAC043;Cateter Doble Lumen para Hemodialisis;Pieza;12Fx20 cm;1 121 01 01 02;94
+DAC044;Cateter doble lumen pediatrico;Pieza;5 FR x 20 cm de longitud;1 121 01 01 02;94
+DAC056;Caterer venoso central Doble Lumen Pediatrico 4Fr x 13cm;Pieza;Pieza;1 121 01 01 02;94
+DAC058;Cateter Venoso central Pediatrico Triple Lumen;SET;5F x 13 cm ( TRIO PAED S 513 );1 121 01 01 02;94
+DAC060;Cateter venoso central  Triplelumen;Pieza;"7Fx 12"" (30cm)";1 121 01 01 02;94
+DAC061;Cateter venoso central Monolumen Pediatrico 5 FR x 20 cm;Pieza;0;1 121 01 01 02;94
+DAC062;"Cateter pediátrico ""Doblelumen"" ";Pieza;Nª 413 de (13 cm)  de 4 french;1 121 01 01 02;94
+DAC063;Cateter venoso periférico con aletas de fijación, aguja triple bisel y contraste radiológico;Pieza;Nº 14 con aletas;1 121 01 01 02;94
+DAC064;Cateter venoso periférico con aletas de fijación, aguja triple bisel y contraste radiológico;Pieza;Nº 16 con aletas;1 121 01 01 02;94
+DAC065;Cateter venoso periférico con aletas de fijación, aguja triple bisel y contraste radiológico;Pieza;Nº 18 con aletas;1 121 01 01 02;94
+DAC066;Cateter venoso periférico con aletas de fijación, aguja triple bisel y contraste radiológico;Pieza;Nº 20 con aletas;1 121 01 01 02;94
+DAC067;Cateter venoso periférico con aletas de fijación, aguja triple bisel y contraste radiológico;Pieza;Nº 22 con aletas;1 121 01 01 02;94
+DAC068;Cateter venoso periférico con aletas de fijación, aguja triple bisel y contraste radiológico;Pieza;Nº 24;1 121 01 01 02;94
+DAC069;Dispositivo bidireccional para transferencia de medicamentos (TRANSOFIX R);Pieza;0;1 121 01 01 02;94
+DAC070;Dispositivo unidireccional para transferencia de medicamentos (TRANSOFIX N);Pieza;0;1 121 01 01 02;94
+DAC071;Equipo p/bomba de infusion para sensor  (BRAUN);Pieza;0;1 121 01 01 02;94
+DAC072;Equipo para Bomba de Infusion (Nipro);Pieza;0;1 121 01 01 02;94
+DAC075;Equipo de Venoclisis (165cm, tambor, inyección libre de latex, conector luer y cOmara de goteo flexible con entrada de aire con filtro antibacteriano);Pieza;0;1 121 01 01 02;94
+DAC078;Extensor de vía;Pieza;120 cm;1 121 01 01 02;94
+DAC079;Extensor de vía;Pieza;60 cm;1 121 01 01 02;94
+DAC081;Filtros Polysulfona HPS F7 (PTM > 600 mmHg);Pieza;0;1 121 01 01 02;94
+DAC082;Filtros Polysulfona HPS F8 (PTM > 600 mmHg);Pieza;0;1 121 01 01 02;94
+DAC087;Líneas Arteriovenosas;Pieza;0;1 121 01 01 02;94
+DAC088;Llave de 3 vias con alargador ;Pieza;10 cm;1 121 01 01 02;94
+DAC089;Llave  3 Vias contraste radiológico;Pieza;0;1 121 01 01 02;94
+DAC091;Microgoteros;Pieza;100 mL;1 121 01 01 02;94
+DAC093;Tapon Heparinizado;Pieza;Pieza;1 121 01 01 02;94
+DB002;Bolsas Colectores de Orina Adulto con llave de seguridad,  gancho colgador, camara de goteo;Pieza;0;1 121 01 01 02;94
+DB004;Bolsas Colectores de Orina Niño;Pieza;0;1 121 01 01 02;94
+DB006;Bolsa de Colostomia (con anillo de caraya);Pieza;0;1 121 01 01 02;94
+DB010;Bolsa de nutricion parenteral, 1000 ml;Pieza;0;1 121 01 01 02;94
+DB011;Bolsa de Nutricion Parenteral;Pieza;2000 mL;1 121 01 01 02;94
+DB023;BOLSA DE NUTRICION PARENTERAL (PEDIATRICO);Pieza;500 ml;1 121 01 01 02;94
+DE003;Control de esterilización p/autoclave externo Rollo;Pieza;0;1 121 01 01 02;94
+DE004;Control de esterilización p/autoclave interno Tiras;Caja;0;1 121 01 01 02;94
+DE006;Control Biológico para Autoclave (para 30 min de lectura);Pieza;Pieza;1 121 01 01 01;93
+DE014;Integrador Quimico para Vapor (Compatible con el equipo);Pieza;0;1 121 01 01 02;94
+DE016;Test de Bowie Dick;Pieza;0;1 121 01 01 02;94
+DJ001;Jeringas de punta CATETER ;Pieza;50 ml o 60 mL;1 121 01 01 02;94
+DJ003;Jeringa de 3mL  estéril descartables acople luer lock;Pieza;3 mL x 21 X 1 1/2;1 121 01 01 02;94
+DJ004;Jeringas estéril descartables acople luer lock;Pieza;5 mL x  21 X 1 1/2;1 121 01 01 02;94
+DJ005;Jeringas estéril descartables acople luer lock;Pieza;10 mL x  21 X 1  1/2;1 121 01 01 02;94
+DJ006;Jeringas estéril descartables acople luer lock;Pieza;20 mL x 21 G x 1 1/2;1 121 01 01 02;94
+DJ007;Jerinjas de punta ROSCA;Pieza;50 ml o 60 ml;1 121 01 01 02;94
+DJ008;Jeringa esteril descartable de Insulina;Pieza;aguja fija;1 121 01 01 02;94
+DJ009;Jeringas esteril descartables, acople luer lock;Pieza;1mL x 27G x 1/2;1 121 01 01 02;94
+DL366;Cinta Glucometro;Pieza;0;1 121 01 01 03;95
+DMQ005;Campo Esteril 40 x 49cm (Campo de Insicion +Paño transparente con bolsa) STERIL DRAPE 1023;Pieza;Pieza;1 121 01 01 02;94
+DMQ006;Cera para hueso;Pieza;0;1 121 01 01 02;94
+DMQ012;Electrodos de espuma para ADULTO;Pieza;0;1 121 01 01 02;94
+DMQ015;Set de anestesia epidural con  filtro Estandar, Nª18 (Perifix);Set;Pieza;1 121 01 01 02;94
+DMQ016;Set de Anestesia combinada espinal y peridural epidural  (Perifix+spocan);Set;0;1 121 01 01 02;94
+DMQ017;Esponja absorbible de gelatina (GELFOAM);Pieza;80 x 125mm;1 121 01 01 02;94
+DMQ018;Canastilla de DORMIA de 4 hebras para extraccion de calculo renal;Pieza;0;1 121 01 01 02;94
+DMQ020;Guantes Quirurgicos Estériles;Par;Nª 6,5;1 121 01 01 02;94
+DMQ021;Guantes Quirurgicos Estériles ;Par;Nª 7;1 121 01 01 02;94
+DMQ022;Guantes Quirurgicos Estériles ;Par;Nª 7,5;1 121 01 01 02;94
+DMQ026;Hojas de Bisturí ;Pieza;Nª 22;1 121 01 01 02;94
+DMQ027;Hojas de Bisturí ;Pieza;Nª 10;1 121 01 01 02;94
+DMQ028;Hojas de Bisturí ;Pieza;Nª 11;1 121 01 01 02;94
+DMQ029;Hojas de Bisturí;Pieza;Nª 12;1 121 01 01 02;94
+DMQ030;Hojas de Bisturí ;Pieza;Nª 15;1 121 01 01 02;94
+DMQ031;Hojas de Bisturí ;Pieza;Nª 20;1 121 01 01 02;94
+DMQ032;Celulosa regeneradora;Pieza;5 x 7 cm;1 121 01 01 02;94
+DMQ039;"Stokinete 3"" (Malla tubular sintética x22,75m)";Caja;0;1 121 01 01 02;94
+DMQ040;"Stokinete 4"" (Malla tubular sintética x22,75m)";Caja;0;1 121 01 01 02;94
+DMQ041;Lápiz Electrobisturí con botón de corte y coagulación;Pieza;0;1 121 01 01 02;94
+DMQ046;Placa Negativa para Electrobisturi SIN CABLE;Pieza;Pieza;1 121 01 01 01;93
+DMQ047A;Placa Negativa para Electrobisturí SIN cable;Pieza;0;1 121 01 01 02;94
+DOT006;Algodón;Pieza;1000g;1 121 01 01 02;94
+DOT011;Aplicadores con torunda (hisopos);Pieza;0;1 121 01 01 02;94
+DOT017;Apósitos transparentes, ;Pieza;12 x 25cm;1 121 01 01 01;93
+DOT018;Apósitos transparentes;Pieza;10 x 12cm;1 121 01 01 02;94
+DOT019;Apósitos transparentes;Pieza;6 x 7 cm;1 121 01 01 02;94
+DOT024;Bajalenguas de madera;Pieza;0;1 121 01 01 02;94
+DOT026;Cal sodada;Kg (GalOn);Pellet;1 121 01 01 02;94
+DOT037;Gasa Cirugia Malla;Pieza;20x24x100 yardas;1 121 01 01 02;94
+DOT039;Humidificador de oxigeno rosca metálica;Pieza;0;1 121 01 01 02;94
+DOT052;Tela Adhesiva Corriente;Pieza;4 Pulgadas;1 121 01 01 02;94
+DOT053;Micropore  color piel o blanco;Pieza;2 Pulgada x 3m;1 121 01 01 02;94
+DOT054;Micropore  color piel o blanco;Pieza;1/2 pulgada;1 121 01 01 02;94
+DOT055;Micropore  color piel o blanco;Pieza;1 Pulgada x 3m;1 121 01 01 02;94
+DOT056;"Tela Adhesiva Antialergica Incolora 2 ""  5 cm";Pieza;0;1 121 01 01 02;94
+DOT057;Tela Adhesiva Antialergica;Pieza;10 cm;1 121 01 01 02;94
+DOT061;Termometros Orales;Pieza;0;1 121 01 01 02;94
+DOT071;Vendas de Gasa;Pieza;4 Pulgadas;1 121 01 01 02;94
+DOT072;Vendas de Gasa;Pieza;2 Pulgadas;1 121 01 01 02;94
+DOT073;Vendas de Gasa;Pieza;6 Pulgadas;1 121 01 01 02;94
+DOT074;Venda de yeso;Pieza;6 pulgadas;1 121 01 01 02;94
+DOT076;Venda de yeso;Pieza;8 Pulgadas;1 121 01 01 02;94
+DOT079;Venda elastica de alta compresion ;Pieza;Pieza;1 121 01 01 02;94
+DOT081;Venda Elastica;Pieza;4 Pulgadas;1 121 01 01 02;94
+DPF003;Profilacticos;Pieza;0;1 121 01 01 02;94
+DPP001;Barbijos N-95 (sin Valvula);Pieza;0;1 121 01 01 02;94
+DPP002;Barbijo descartable con tiras;Pieza;0;1 121 01 01 02;94
+DPP003;Barbijos Descartables con liga;Pieza;0;1 121 01 01 02;94
+DPP004;Bata descartable 60g con puño de algodón (Estandar);Pieza;0;1 121 01 01 02;94
+DPP005;Botas descartables  Estandar;Pieza;Pieza;1 121 01 01 02;94
+DPP007;Gorro descartables Estandar de 40 g;Pieza;0;1 121 01 01 02;94
+DPP009;Guantes de polietileno PVC;Pieza;"Talla ""M""";1 121 01 01 02;94
+DPP010;Guantes de Nitrilo;Pieza;"Talla ""M""";1 121 01 01 02;94
+DPP011;Guantes Desechables Latex;Pieza;"Talla ""S""";1 121 01 01 02;94
+DPP012;Guantes Desechables de Latex;Pieza;"Talla "" M""";1 121 01 01 02;94
+DPP015;Gafas protectoras antiempañante (plástico);Pieza;0;1 121 01 01 02;94
+DSC001;Clips de Titáneo Laparoscopico LT 300 (según equipo);Pieza;5mm;1 121 01 01 02;94
+DSC007;Seda negra ;Pieza;Nª 0     s/aguja;1 121 01 01 02;94
+DSC008;Seda   ;Pieza;Nª 1     s/aguja;1 121 01 01 02;94
+DSC009;Seda  ;Pieza;Nª 2/0   s/aguja;1 121 01 01 02;94
+DSC010;Seda  ;Pieza;Nª 3/0   s/aguja;1 121 01 01 02;94
+DSC011;"Hilo de Sutura  Poliglicolico  en ""J""";Pieza;Nª 1 aguja 30mm;1 121 01 01 02;94
+DSC012;Catgut Cromado  ;Pieza;Nª 0  aguja 36,4mm atrumatica;1 121 01 01 02;94
+DSC013;Catgut Cromado  ;Pieza;Nª 1 aguja 40mm atraumatica;1 121 01 01 02;94
+DSC014;Catgut Cromado  ;Pieza;Nª 2/0  aguja 26mm atraumatica;1 121 01 01 02;94
+DSC016;Catgut Cromado  ;Pieza;Nª 3/0   aguja 26mm atraumatica;1 121 01 01 02;94
+DSC017;Catgut Cromado;Pieza;Nª 4/0   aguja 17mm atraumatica;1 121 01 01 02;94
+DSC018;Catgut Cromado  ;Pieza;Nª 5/0   aguja 17mm atraumatica;1 121 01 01 02;94
+DSC019;Catgut Simple  ;Pieza;Nª 0   aguja 36,4mm atraumatica;1 121 01 01 02;94
+DSC020;Catgut Simple  ;Pieza;Nª 1   aguja 36,4mm atraumatica;1 121 01 01 02;94
+DSC022;Catgut Simple  ;Pieza;Nª 2/0  aguja 26mm atraumatica;1 121 01 01 02;94
+DSC023;Catgut Simple  ;Pieza;Nª 3/0   aguja 26mm atrumatica;1 121 01 01 02;94
+DSC024;Catgut Simple;Pieza;Nª 4/0  aguja 17mm atraumatica;1 121 01 01 02;94
+DSC026;Seda   ;Pieza;Nª 0   aguja 36,4mm;1 121 01 01 02;94
+DSC027;Seda   ;Pieza;Nª 1    aguja 36.4mm;1 121 01 01 02;94
+DSC028;Seda   ;Pieza;Nª 2/0  aguja 26mm;1 121 01 01 02;94
+DSC029;Seda   ;Pieza;Nª 3/0  aguja 26mm;1 121 01 01 02;94
+DSC036;Sutura quirúrgica poliglecaprone (MONOCRYL);Pieza;Nª 3/0 aguja 19mm traumatica;1 121 01 01 02;94
+DSC037;Sutura quirúrgica poliglecaprone (MONOCRYL);Pieza;Nª 4/0   aguja traumOtica 19mm traumatica;1 121 01 01 02;94
+DSC038;Sutura Gliconato Monofilamento Poliglecaprone Nª 5/0 Traumatica;Pieza;0;1 121 01 01 02;94
+DSC039;Hilo de sutura NYLON  (Oftalmología);Pieza;Nª 10/0  aguja 6,5mm;1 121 01 01 02;94
+DSC040;Nylon ;Pieza;Nª 0 aguja 19mm;1 121 01 01 02;94
+DSC042;Nylon  ;Pieza;Nª 2/0  aguja 26mm;1 121 01 01 02;94
+DSC043;Nylon  ;Pieza;Nª 3/0  aguja 24mm traumatica;1 121 01 01 02;94
+DSC044;Nylon  ;Pieza;Nª 4/0  aguja 19mm traumatica;1 121 01 01 02;94
+DSC045;Nylon  ;Pieza;Nª 5/0  aguja 16mm traumatica;1 121 01 01 02;94
+DSC046;Nylon  ;Pieza;Nª 6/0  aguja 16mm traumatica;1 121 01 01 02;94
+DSC047;Hilo de sutura polidioxanona monofilamento-PDS ;Pieza;Nª 0 aguja 50mm;1 121 01 01 02;94
+DSC048;Hilo de sutura polidioxanona monofilamento-PDS ;Pieza;Nª 1 aguja 40mm;1 121 01 01 02;94
+DSC053;Hilo de sutura poliglactina (VICRYL);Pieza;Nª0 aguja 26mm;1 121 01 01 02;94
+DSC054;Hilo de sutura poliglactina (VICRYL);Pieza;Nª 1 aguja 40 mm;1 121 01 01 02;94
+DSC055;Hilo de sutura poliglactina (VICRYL);Pieza;Nª 2/0  aguja 26mm;1 121 01 01 02;94
+DSC056;Hilo de Sutura Poliglactina  (VICRYL);Pieza;Nª 3/0  aguja 26mm;1 121 01 01 02;94
+DSC057;Hilo de Sutura Poliglactina  (VICRYL);Pieza;Nª 4/0  aguja 17mm;1 121 01 01 02;94
+DSC058;Hilo de sutura poliglactina (VICRYL);Pieza;Nª 5/0  aguja 17mm;1 121 01 01 02;94
+DSC060;Polipropileno (PROLENE);Pieza;Nª 0  aguja 36.4mm;1 121 01 01 02;94
+DSC061;Polipropileno (PROLENE);Pieza;Nª 1 aguja 36.4mm;1 121 01 01 02;94
+DSC062;Polipropileno (PROLENE);Pieza;Nª 2/0 doble aguja 26mm;1 121 01 01 02;94
+DSC063;Polipropileno (PROLENE);Pieza;Nª 3/0 doble aguja 26mm;1 121 01 01 02;94
+DSC064;Polipropileno (PROLENE);Pieza;Nª 4/0 doble aguja 17mm;1 121 01 01 02;94
+DSC065;Polipropileno (PROLENE) ;Pieza;Nª 5/0 doble aguja 17mm;1 121 01 01 02;94
+DSC066;Polipropileno (PROLENE) ;Pieza;Nª 6/0 doble aguja 13mm;1 121 01 01 02;94
+DSC067;Polipropileno (PROLENE) ;Pieza;Nª 7/0 doble aguja 13 mm;1 121 01 01 02;94
+DSC068;sutura de acero inoxidable;Pieza;4x45 cm;1 121 01 01 01;93
+DSD001;Hemosuctor;Pieza;Nª 12;1 121 01 01 02;94
+DSD002;Hemosuctor;Pieza;Nª 14;1 121 01 01 02;94
+DSD003;Hemosuctor;Pieza;Nª 16;1 121 01 01 02;94
+DSD004;Hemosuctor;Pieza;Nª 18;1 121 01 01 02;94
+DSD006;Hemosuctor;Pieza;Nª 10;1 121 01 01 02;94
+DSD008;Drenaje Laminar  (PEN ROSSE)  1/2 pulgada;Pieza;1/2 pulgada;1 121 01 01 02;94
+DSD009;Drenaje Laminar  (PEN ROSSE);Pieza;1/4 pulgada;1 121 01 01 02;94
+DSD010;Drenaje Laminar  (PEN ROSSE);Pieza;1 pulgada;1 121 01 01 02;94
+DSD011;Sonda de Aspiracion Con Linea Radiopaco N° 6;Pieza;0;1 121 01 01 02;94
+DSD012;Sonda de aspiración con línea radiopaco ;Pieza;Nª 8;1 121 01 01 02;94
+DSD013;Sonda de aspiración con línea radiopaco ;Pieza;Nª 10;1 121 01 01 02;94
+DSD014;Sonda de aspiración con línea radiopaco ;Pieza;Nª 12;1 121 01 01 02;94
+DSD015;Sonda de aspiración con línea radiopaco ;Pieza;Nª 14;1 121 01 01 02;94
+DSD016;Sonda de aspiración con línea radiopaco ;Pieza;Nª 16;1 121 01 01 02;94
+DSD017;Sonda de aspiración con línea radiopaco ;Pieza;Nª 18;1 121 01 01 02;94
+DSD019;Sonda en T de Kehr;Pieza;Nª 16;1 121 01 01 02;94
+DSD020;Sonda en T de Kehr;Pieza;Nª14;1 121 01 01 02;94
+DSD023;Sonda Foley 2 vias ;Pieza;Nª 10;1 121 01 01 02;94
+DSD024;Sonda Foley 2 vias ;Pieza;Nª 12;1 121 01 01 02;94
+DSD025;Sonda Foley 2 vias;Pieza;Nª 14;1 121 01 01 02;94
+DSD026;Sonda Foley 2 Vias;Pieza;Nª 16;1 121 01 01 02;94
+DSD027;Sonda Foley 2 vias;Pieza;Nª 18;1 121 01 01 02;94
+DSD028;Sonda Foley de 2 vias;Pieza;Nª 20;1 121 01 01 02;94
+DSD031;Sonda Foley de 3 vias ;Pieza;Nª 20;1 121 01 01 02;94
+DSD032;Sonda Foley de 3 vias;Pieza;Nª 22;1 121 01 01 02;94
+DSD034;Sonda nasogastrica ;Pieza;Nª 10;1 121 01 01 02;94
+DSD035;Sonda nasogastrica ;Pieza;Nª 18;1 121 01 01 02;94
+DSD037;Sonda nasogastrica ;Pieza;Nª 6;1 121 01 01 02;94
+DSD038;Sonda nasogastrica ;Pieza;Nª 8;1 121 01 01 02;94
+DSD039;Sonda Nasogastrica;Pieza;Nª 12;1 121 01 01 02;94
+DSD040;Sonda nasogastrica ;Pieza;Nª 14;1 121 01 01 02;94
+DSD041;Sonda nasogastrica ;Pieza;Nª 16;1 121 01 01 02;94
+DSD047;Sonda rectal  ;Pieza;Nª 18;1 121 01 01 01;93
+DSD050;Sonda rectal  ;Pieza;Nª 20;1 121 01 01 02;94
+DSD051;Sonda rectal  ;Pieza;Nª 22;1 121 01 01 02;94
+DSD052;Sonda rectal ;Pieza;Nª 24;1 121 01 01 02;94
+DSD058;Sonda Nelaton;Pieza;NO 14;1 121 01 01 02;94
+DSD059;Sonda Nelaton;Pieza;No. 16;1 121 01 01 02;94
+DSD062;Sonda Nelaton;Pieza;No. 12;1 121 01 01 02;94
+DSG002;Acido Peracetico (Compatible con equipo  de HSSU);Solucion;2% (Galon);1 121 01 01 02;94
+DSG006;Amonio cuaternario de quinta generacion;Solucion;5 litros;1 121 01 01 02;94
+DSG007;Solucion enzimática;Solucion;5 litros (bidon);1 121 01 01 02;94
+DSG008;Gel para transmisión ultrasónica y eléctrica (con dispensador individual);Gel;5 litros;1 121 01 01 02;94
+DSG010;Ortoftaraldehido;Solucion;0,55% (Galon);1 121 01 01 02;94
+DTO003;Bigoteras Adultos con alargador;Pieza;0;1 121 01 01 02;94
+DTO005;Bigoteras Pediatrico con alargador;Pieza;0;1 121 01 01 02;94
+DTO013;Set de  Traqueotomia;Pieza;Nª 7.0;1 121 01 01 02;94
+DTO014;SetTraqueotomia;Pieza;Nª 7,5;1 121 01 01 02;94
+DTO015;Set de Traqueotomia;Pieza;Nª 8;1 121 01 01 02;94
+DTO018;Set de tubos corrugados para ventilador Adulto (5 tubos corrugados, 2 trampas de agua, 1 conector en Y, 1 filtro antibacteriano, 1 camara de HumidificaciOn);Set;0;1 121 01 01 02;94
+DTO020;Set de tubos corrugados para ventilador c/camara de humidificacion PEDIATRICO;Set;Set;1 121 01 01 02;94
+DTO022C;Mascara Laringea ;Pieza;Nª 2.5;1 121 01 01 02;94
+DTO022D;Mascara Laringea;Pieza;Nª 3;1 121 01 01 02;94
+DTO022E;Mascara Laringea ;Pieza;Nª 4;1 121 01 01 02;94
+DTO022F;Mascara Laringea ;Pieza;Nª 5;1 121 01 01 02;94
+DTO023;Mascarilla con Nebulizador y alargador;Pieza;0;1 121 01 01 02;94
+DTO026;Mascarillas para oxigeno con alargador (adulto);Pieza;0;1 121 01 01 02;94
+DTO027;Mascarillas para oxigeno con alargador (pediátrico);Pieza;0;1 121 01 01 02;94
+DTO028;Mascara facial adulto;Pieza;0;1 121 01 01 02;94
+DTO030;Mascarilla de oxigeno con reservorio adulto;Pieza;0;1 121 01 01 02;94
+DTO038;Sistema Cerrado de Aspiración Nª 14;PIEZA;Pieza;1 121 01 01 02;94
+DTO039;Sistema Cerrado de Aspiración Nª 16;Pieza;Pieza;1 121 01 01 02;94
+DTO040;Drenaje para torax 1 litro;Pieza;Nª 26;1 121 01 01 02;94
+DTO041;Drenaje para torax 2 litros;Pieza;Nª 32;1 121 01 01 02;94
+DTO042;Sistema drenaje pleural PEDIATRICO;Set;Niño, 500 ml, con catèter Nª 12;1 121 01 01 02;94
+DTO081;Tubo Endotraqueal con balón;Pieza;Nª 3;1 121 01 01 02;94
+DTO082;Tubo Endotraqueal con balón;Pieza;Nª 3.5;1 121 01 01 02;94
+DTO083;Tubo Endotraqueal SIN balón;Pieza;Nª 4.0;1 121 01 01 02;94
+DTO084;Tubos endotraqueales  CON balon ;Pieza;Nª 4,5;1 121 01 01 02;94
+DTO085;Tubo Endotraqueal CON balón ;Pieza;Nª 5.0;1 121 01 01 02;94
+DTO086;Tubos endotraqueales CON balon ;Pieza;Nª 5,5;1 121 01 01 02;94
+DTO087;Tubos endotraqueales  (con balón) Nª 6;Pieza;Nª 6,0;1 121 01 01 02;94
+DTO088;Tubos endotraqueales  (con balón) Nª 6,5;Pieza;Nª 6,5;1 121 01 01 02;94
+DTO089;Tubo Endotraqueal CON balón Nª 7;Pieza;Nª 7.0;1 121 01 01 02;94
+DTO090;Tubo Endotraqueal CON balón Nª 7,5;Pieza;Nª 7.5;1 121 01 01 02;94
+DTO091;Tubo Endotraqueal CON línea radiopaco y balón Nª 8;Pieza;Nª 8.0;1 121 01 01 02;94
+DTO092;Tubo Endotraqueal CON línea radiopaco y balón Nª 8,5;Pieza;Nª 8.5;1 121 01 01 02;94
+DTO093;Tubo Endotraqueal Sin Balon N° 2;Pieza;0;1 121 01 01 02;94
+DTO094;Tubos endotraqueal Sin Balon N° 2.5;Pieza;Pieza;1 121 01 01 02;94
+DTO096;Tubo Endotraqueal Sin Balon N° 3.5;Pieza;0;1 121 01 01 02;94
+DTO097;Tubo Endotraqueal SIN Balon N° 4;Pieza;0;1 121 01 01 02;94
+DTO098;Tubo Endotraqueal SIN balon  Nª 4.5;Pieza;0;1 121 01 01 02;94
+DTO099;Tubo Endotraqueal SIN balon  Nª 5;Pieza;0;1 121 01 01 02;94
+DUG001;Cepillo Endocervical Esteril;Pieza;0;1 121 01 01 02;94
+2A038;Agua destilada no inyectable;Litro;0;1 121 01 01 02;94
+2A042;Asas de Corte para resectorcopio de un Vastago 24ch;Pieza;0;1 121 01 01 02;94
+2A053;Alcohol (corriente);Lata x 16 L;0,96;1 121 01 01 02;94
+2B013;Barbijos KN-95;Pieza;Cinco Capas de Proteccion;1 121 01 01 02;94
+2B050;Barras de cauterizacion (Nitrato de plata 75%+Nitrato de potasio 25%);tubo 100 U;tubo 100 U;1 121 01 01 01;93
+2C054;Cotonetes descartables;Pieza;0;1 121 01 01 02;94
+2C121;Cassette NX para autoclave de plasma;Pieza;0;1 121 01 01 02;94
+2C125;Cassete p/Facoestimulador;Pieza;0;1 121 01 01 02;94
+2C126;Cartucho plus con tapa plastica;Pieza;0;1 121 01 01 02;94
+2F022;Filtro Antibacteriano para Espirometro;Pieza;0;1 121 01 01 02;94
+2F023;Filtro pall;Pieza;0;1 121 01 01 02;94
+2F024;Filtro HEM para ventilador mecanico;Pieza;0;1 121 01 01 02;94
+2F025;Filtro protector KN-95 p/protector facial total;Pieza;0;1 121 01 01 02;94
+2F026;Filtro antibacteriano e intercambiadorde humedad p/ventilaciòn mecànica;Pieza;0;1 121 01 01 02;94
+2G002;Glucosidos Antraquinonicos + Acido  Salicilico;Solucion;0,05g+0,01g/ml;1 121 01 01 02;94
+2G013;Guia para Pencan;Pieza;Nº 27;1 121 01 01 02;94
+2M037;Manga Mixta  ;Pieza;10cm x 200mts.;1 121 01 01 02;94
+2M038;Manga Mixta ;Pieza;15cm x 200mts.;1 121 01 01 02;94
+2M039;Manga Mixta ;Pieza;30cm x 200mts.;1 121 01 01 02;94
+2M041;Mascara facial de plastico transparente;Pieza;0;1 121 01 01 02;94
+2M042;Mascara protectora facial total con banda elastica con FILTRO KN95 reutilizable;Pieza;0;1 121 01 01 02;94
+2P026;Placas para TomografOa;Cajax124;35 x 43 cm;1 121 01 01 02;94
+2P029;Pastas para Estudios de Encefalografia;Pieza;400g;1 121 01 01 02;94
+2R004;Resucitador manual autoclavable con reservorio siliconado adulto;Pieza;0;1 121 01 01 02;94
+2R005;Resucitador manual autoclavable con reservorio siliconado pediatrico;Pieza;0;1 121 01 01 02;94
+2S039;Sonda Fogarty;Pieza;Nº 3;1 121 01 01 02;94
+2S040;Sonda Fogarty ;Pieza;Nº 4;1 121 01 01 02;94
+2S041;Sonda Fogarty ;Pieza;Nº 5;1 121 01 01 02;94
+2S042;Sonda Fogarty ;Pieza;Nº 6;1 121 01 01 02;94
+2S088;Set de endoligadura Endoscopica Recargable (p/varice esofagica);Pieza;0;1 121 01 01 02;94
+2S097;Sistema Nasal Infantil (C-PAP) ;Pieza;Nº 3;1 121 01 01 02;94
+2S098;Sistema Nasal Infantil (C-PAP) ;Pieza;Nº 4;1 121 01 01 02;94
+2S099;Sistema Nasal Infantil (C-PAP ) ;Pieza;Nº 5;1 121 01 01 02;94
+2T022;Tubo toracico;Pieza;Nº 24;1 121 01 01 02;94
+2T036;Tubos de mayo o Tubo Guedel ;Pieza;Nº 1  (60 mm);1 121 01 01 02;94
+2T037;Tubos de mayo o Tubo Guedel;Pieza;Nº 2;1 121 01 01 02;94
+2T038;Tubos de mayo o Tubo Guedel;Pieza;Nº 3;1 121 01 01 02;94
+2T039;Tubos de mayo o Tubo Guedel;Pieza;Nº 4;1 121 01 01 02;94
+2T040;Tubos de mayo o Tubo Guedel;Pieza;Nº 5;1 121 01 01 02;94
+2T041;Tubos de mayo o Tubo Guedel;Pieza;Nº 6;1 121 01 01 02;94
+2T043;Tela Adhesiva Antialergica;Pieza;1 pulgada;1 121 01 01 02;94
+2T059;Indicador interno para peroxido de hidrogeno (Tira sterrad);Pieza;0;1 121 01 01 02;94
+2T061;Tubo de Traqueotomia;Pieza;Nº 6,5;1 121 01 01 02;94
+2T062;Tubo de mayo o canula guedel ;Pieza;Nº  4  (40 mm);1 121 01 01 02;94
+2T063;Tubo de mayo o canula guedel ;Pieza;Nº 5  (50 mm);1 121 01 01 02;94
+2T071;Tubo de Traqueotomia;Pieza;Nº 8.5;1 121 01 01 02;94
+2T080;Tubo de traqueotomia  pecutanea ;Pieza;Nº 8.0;1 121 01 01 02;94
+2V026;Valvula PEEP para AMBU (Reusable);Pieza;0;1 121 01 01 02;94
+2Y003;Yodopovidona jabon liquido;Solucion;1 litro;1 121 01 01 02;94
+DL003;ASTO LATEX (Antiestreptolisina O);Set;0;1 121 01 01 03;95
+DL005;Aceite de Cedro p.a. (Aceite de Inmersion);ml;0;1 121 01 01 03;95
+DL006;Disco Acido Nalidixico ;Tubo;30 ug;1 121 01 01 03;95
+DL008;Acido Urico;set;0;1 121 01 01 03;95
+DL013;Agar Bilis Esculina;Frasco;500 g;1 121 01 01 01;93
+DL015;Agar Cled;Frasco;500 g;1 121 01 01 03;95
+DL016;Agar DNAsa;Frasco;500 g;1 121 01 01 03;95
+DL021;Agar LIA (Lisina Iron Agar);Frasco;500 g;1 121 01 01 03;95
+DL022;Agar Mc Conkey;Frasco;500 g;1 121 01 01 03;95
+DL023;Agar Manitol Salado;Frasco;500 g;1 121 01 01 03;95
+DL024;Agar Muller Hinton;Frasco;500 g;1 121 01 01 03;95
+DL025;Agar Mycocel;Frasco;500 g;1 121 01 01 03;95
+DL029;Agar Sabouraud;Frasco;500 g;1 121 01 01 03;95
+DL031;Agar Citrato Simon;Frasco;500 g;1 121 01 01 01;93
+DL032;Agar Soya Tripticasa;Frasco;500 g;1 121 01 01 03;95
+DL033;Agar TSI (Triple azùcar hierro);Frasco;500 g;1 121 01 01 03;95
+DL035;Agar XLD;Frasco;500 g;1 121 01 01 03;95
+DL036;Albumina;set;0;1 121 01 01 03;95
+DL038;Amilasa Colorimetrica;set;0;1 121 01 01 03;95
+DL044;Anticoagulante de E.D.T.A.;mL;0;1 121 01 01 03;95
+DL046;Antigeno Anti A-B;Frasco;0;1 121 01 01 03;95
+DL047;Antigeno Anti B;Frasco;0;1 121 01 01 03;95
+DL048;Antigeno Anti A;Frasco;0;1 121 01 01 03;95
+DL049;Antigeno Factor Reumatoideo (FR)  LATEX;set;0;1 121 01 01 03;95
+DL050;Antigeno Febril WIDAL con suero control (Anti H, O, A y B);Juego;0;1 121 01 01 03;95
+DL051;Proteina C Reactiva (PCR);set;0;1 121 01 01 03;95
+DL052;Antigeno RH (Suero Anti-D);set;0;1 121 01 01 03;95
+DL055;Asa Bacteriologica calibrada;Pieza;0;1 121 01 01 03;95
+DL056;Bilirrubina con estandar o calibrador;set;0;1 121 01 01 03;95
+DL060;Cajas petri de 100mm x 20mm;Pieza;0;1 121 01 01 03;95
+DL062;Calcio Total (Colorimetrico);set;0;1 121 01 01 03;95
+DL065;Caldo Infusion cerebro corazon (BHI);Frasco;500 g;1 121 01 01 03;95
+DL066;Caldo Selenito;Frasco;500 g;1 121 01 01 03;95
+DL072;Capacidad de Fijacion de Hierro Total (TIBC);set;0;1 121 01 01 03;95
+DL074;Casettes de inclusion c/tapa para tejido;Pieza;0;1 121 01 01 03;95
+DL079;Cepillos para Tubos de Hemolisis con cerda de nylon;Pieza;0;1 121 01 01 03;95
+DL080;Cepillo Grande para probeta y matraz;Pieza;0;1 121 01 01 03;95
+DL081;Cepillos para Tubos de Ensayo con cerda de nylon;Pieza;0;1 121 01 01 03;95
+DL085;Creatin Kinasa-Total;mL;0;1 121 01 01 03;95
+DL086;Creatin Kinasa-MB;set;0;1 121 01 01 03;95
+DL089;Colesterol Total;set;0;1 121 01 01 03;95
+DL090;HDL-Colesterol;set;0;1 121 01 01 03;95
+DL091;Coloracion rapida Panoptico;set;0;1 121 01 01 03;95
+DL093;Colorante Giemsa;Litro;0;1 121 01 01 03;95
+DL094;Colorantes para tincion GRAM;Litro;0;1 121 01 01 01;93
+DL099;Creatinina Metodo Cinetico;set;0;1 121 01 01 03;95
+DL102;Cubeta redonda para Star Fax 12 x 75mm (Tubos de Borosilicato);Pieza;0;1 121 01 01 03;95
+DL103;Cubre Objetos 22 x 22 mm;Pieza;0;1 121 01 01 03;95
+DL105;Cubre Objetos 24 x 40 mm;Pieza;0;1 121 01 01 03;95
+DL106;Cubreobjetos 24 x 50 mm;Pieza;0;1 121 01 01 03;95
+DL108;Cuchillas de bajo perfil;Pieza;0;1 121 01 01 03;95
+DL113;Disco de Amikacina ;Tubo;30 ug;1 121 01 01 03;95
+DL115;Disco de Amoxicilina + Ac. Clavulanico ;Tubo;20ug + 10ug;1 121 01 01 03;95
+DL116;Disco de Ampicilina ;Tubo;10ug;1 121 01 01 03;95
+DL117;Disco de Amoxicilina + Sulbactam ;Tubo;0;1 121 01 01 03;95
+DL118;Azitromicina;Tubo;15 ug;1 121 01 01 03;95
+DL119;Disco de Aztreonam;Tubo;50 ug;1 121 01 01 03;95
+DL120;Disco de Bacitracina ;Tubo;0,04 UI;1 121 01 01 03;95
+DL124;Disco de Cefalotina ;Tubo;30ug;1 121 01 01 03;95
+DL125;Disco de Cefazolina;Tubo;50 ug;1 121 01 01 03;95
+DL126;Disco de Cefepima ;Tubo;30ug;1 121 01 01 03;95
+DL130;Disco de Cefotaxima ;Tubo;30ug;1 121 01 01 03;95
+DL131;Disco de Cefoxitina ;Tubo;30ug;1 121 01 01 03;95
+DL133;Disco de Ceftazidima ;Tubo;30ug;1 121 01 01 03;95
+DL134;Disco de Ceftazidima/acido Clavulanico;Tubo;0;1 121 01 01 03;95
+DL135;Disco de Ceftriaxona ;Tubo;30ug;1 121 01 01 03;95
+DL137;Disco de Ciprofloxacina ;Tubo;5ug;1 121 01 01 03;95
+DL138;Disco de Clindamicina ;Tubo;2ug;1 121 01 01 03;95
+DL139;Disco de Cloranfenicol ;Tubo;30ug;1 121 01 01 03;95
+DL141;Disco de Colistina ;Tubo;10ug;1 121 01 01 03;95
+DL143;Disco de E.D.T.A.;Tubo;0;1 121 01 01 03;95
+DL145;Disco de Eritromicina ;Tubo;15ug;1 121 01 01 03;95
+DL147;Disco de Gentamicina ;Tubo;120 UI;1 121 01 01 03;95
+DL148;Disco de Gentamicina ;Tubo;10 UI;1 121 01 01 03;95
+DL149;Hemocultivo aerobios/anaerobios  con inhibidor de antibiotico ADULTO;Frasco;0;1 121 01 01 03;95
+DL150;Disco de Imipenem ;Tubo;10ug;1 121 01 01 03;95
+DL151;Disco de Levofloxacina;Tubo;5ug;1 121 01 01 03;95
+DL152;Disco de Meropenem;Tubo;0;1 121 01 01 03;95
+DL153;Disco de Minoxiciclina;Tubo;0;1 121 01 01 03;95
+DL154;Disco de Neomicina ;Tubo;30ug;1 121 01 01 03;95
+DL156;Disco de Nitrofurantoina ;Tubo;300ug;1 121 01 01 03;95
+DL158;Disco de Novobiocina ;Tubo;5ug;1 121 01 01 03;95
+DL159;Disco de ONPG;Tubo;0;1 121 01 01 03;95
+DL160;Disco de Optoquina ;Tubo;5ug;1 121 01 01 03;95
+DL162;Disco de Oxacilina ;Tubo;1ug;1 121 01 01 03;95
+DL163;Disco de Oxidasa;Tubo;0;1 121 01 01 03;95
+DL164;Disco de Penicilina ;Tubo;10UI;1 121 01 01 03;95
+DL165;Disco de Piperacilina+Tazobactam ;Tubo;0;1 121 01 01 03;95
+DL167;Disco de Polimixina B;Tubo;0;1 121 01 01 03;95
+DL168;Disco de PYR-A Enterococos/Estreptococos (Pirrolidonilarilamidasa);Tubo;0;1 121 01 01 03;95
+DL170;Disco Teicoplanica;Tubo;0;1 121 01 01 03;95
+DL171;Disco de Tetraciclina ;Tubo;30ug;1 121 01 01 03;95
+DL172;Disco de Tobramicina ;Tubo;10ug;1 121 01 01 03;95
+DL173;Disco de Sulfametoxazol + Trimetoprin ;Tubo;25ug;1 121 01 01 03;95
+DL174;Disco de Vancomicina ;Tubo;30ug;1 121 01 01 03;95
+DL175;EA-50 Tincipon Papanicolau;Litro;0;1 121 01 01 03;95
+DL181;Eosina (tinciòn Universal);Litro;0;1 121 01 01 03;95
+DL195;Focos de Halogeno para microscopio ;Pieza;6 y 20ww;1 121 01 01 03;95
+DL196;Focos de Halogeno para microscopio ;Pieza;6 y 10ww;1 121 01 01 03;95
+DL199;Fosfatasa Alcalina Metodo cinetico;set;0;1 121 01 01 03;95
+DL200;Fosforo Metodo Colorimetrico;set;0;1 121 01 01 03;95
+DL204;Frascos para coprocultivo desechables;Pieza;0;1 121 01 01 03;95
+DL208;Glucosa Metodo Colorimètrico;mL;0;1 121 01 01 03;95
+DL221;Helicobacter Pylori en suero;Taco;0;1 121 01 01 03;95
+DL222;Helicobacter Pylori en Heces ;Taco;0;1 121 01 01 03;95
+DL224;Hematoxilina de Harris;Litro;0;1 121 01 01 03;95
+DL225;Hemocultivo aerobios/anaerobios con inhibidor de antibiòtico NEONATAL;Frasco;0;1 121 01 01 03;95
+DL226;Hemocultivo aerobios/anaerobios con inhibidor de antibiòtico PEDIATRICO;Frasco;0;1 121 01 01 03;95
+DL228;Hemoglobina Glicosilada H1C1 prueba rapida;set;0;1 121 01 01 03;95
+DL238;Hierro serico Total;set;0;1 121 01 01 03;95
+DL239;Hisopos de DACRON p/toma de muestra viral;Pieza;0;1 121 01 01 03;95
+DL240;"HIV prueba rapida (HIV-1; HIV-2)";Set;500;1 121 01 01 03;95
+DL242;Reactivo de Kovac;mL;0;1 121 01 01 03;95
+DL247;Isovitalex;Ampolla;0;1 121 01 01 03;95
+DL248;Lactato Deshidrogenasa (LDH) (Met. Cinetico);set;0;1 121 01 01 03;95
+DL253;Lancetas Esteriles;Pieza;0;1 121 01 01 03;95
+DL254;Lapiz Dermografico (Graso);Pieza;0;1 121 01 01 03;95
+DL257;Ligaduras  para toma de muestra ADULTO;Pieza;0;1 121 01 01 03;95
+DL259;Liquido de Turk;mL;0;1 121 01 01 03;95
+DL267;Matraz Erlenmeyer ;Pieza;250 ml;1 121 01 01 01;93
+DL268;Matraz Erlenmeyer ;Pieza;500 ml;1 121 01 01 01;93
+DL269;Matraz Erlenmeyer ;Pieza;1000 ml;1 121 01 01 01;93
+DL273;Medio de transporte Carry Blair o Stuart;Frasco;500 g;1 121 01 01 03;95
+DL275;Medio de Trasporte Viral MTV en tubo tipo Falcon;Unidad;0;1 121 01 01 03;95
+DL280;Disco de acido Boronico;Tubo;300 ug;1 121 01 01 03;95
+DL283;Orange G (Tincion Papanicolau);Litro;0;1 121 01 01 03;95
+DL287;Papel Parafilm;Rollo;0;1 121 01 01 03;95
+DL288;Parafina  solida para cortes histologicos punto de fusion 56 a 58o;Kilogramo;0;1 121 01 01 03;95
+DL290;Pipeta automatica ;Pieza;10uL fija;1 121 01 01 03;95
+DL294;Pipeta automatica ;Pieza;50uL fija;1 121 01 01 03;95
+DL295;Pipeta automatica ;Pieza;00uL fija;1 121 01 01 03;95
+DL303;Pipeta graduada ;Pieza;1 mL;1 121 01 01 03;95
+DL305;Pipeta graduada de vidrio de ;Pieza; 5 mL;1 121 01 01 03;95
+DL309;Pizetas de Plastico ;Pieza;100 ml ;1 121 01 01 03;95
+DL310;Placas de Plastilina;Pieza;0;1 121 01 01 03;95
+DL311;Placas para grupo sanguineo;Pieza;0;1 121 01 01 03;95
+DL313;Plasma control para TP normal y patologico;set;0;1 121 01 01 03;95
+DL314;Porta Objetos;Pieza;80 X 30 mm;1 121 01 01 03;95
+DL315;Portaobjetos Esmerilados;Pieza;0;1 121 01 01 03;95
+DL323;Probeta de Vidrio Pyrex graduada ;Pieza;1000 mL;1 121 01 01 03;95
+DL327;Propipetas;Pieza;0;1 121 01 01 03;95
+DL328;Proteinas en Orina (Proteinuria);set;0;1 121 01 01 03;95
+DL329;Proteinas Totales con estandar;set;0;1 121 01 01 03;95
+DL330;Prueba de Embarazo;Taco;0;1 121 01 01 03;95
+DL333;PSA prueba rapida  (Antigeno Prostatico Especifico);Taco;500;1 121 01 01 03;95
+DL336;Reactivo para Hemoglobina Cianmetahemoglobina con Estandar;set;0;1 121 01 01 03;95
+DL337;Reactivo para Sangre Oculta en Heces (Taco + buffer);Set;0;1 121 01 01 03;95
+DL338;Reactivo para recuento de Reticulocitos (Azul Brillante de Cresilo);mL;0;1 121 01 01 03;95
+DL339;Reagina Plasmatica Rapida (RPR);Set;0;1 121 01 01 03;95
+DL349;Suero Control Alto;Frasco;0;1 121 01 01 03;95
+DL350;Suero Control Normal;Frasco;0;1 121 01 01 03;95
+DL351;Suero de Coombs;Frasco;0;1 121 01 01 03;95
+DL359;Test de Alcoholemia;set;0;1 121 01 01 03;95
+DL360;Test para Rotavirus prueba rapida;Taco;0;1 121 01 01 03;95
+DL364;Tips de plastico  ;Pieza;10 a 200uL;1 121 01 01 03;95
+DL365;Tips de plastico  ;Pieza;200 a 1000uL;1 121 01 01 03;95
+DL367;Tireas Reactivas para Orina;Pieza;0;1 121 01 01 03;95
+DL371;Transaminasas GOT (Met. Cinetico);mL;0;1 121 01 01 03;95
+DL372;Transaminasas GPT (Met. Cinetico);mL;0;1 121 01 01 03;95
+DL373;Trigliceridos (Met. Enzimatico);set;0;1 121 01 01 03;95
+DL374;Tromboplastina Calcica;set;0;1 121 01 01 03;95
+DL375;Tromboplastina Parcial Activada con cloruro de calcio (TPTA);set;0;1 121 01 01 03;95
+DL376;Troponina;Taco;0;1 121 01 01 03;95
+DL379;Tubo para extraccion de sangre al vacio (Sin anticoagulante);Pieza;0;1 121 01 01 03;95
+DL380;Tubo para extraccion de sangre al vacio (Con anticoagulante EDTA) VACUTAINER TAPA LILA 3ml;Pieza;0;1 121 01 01 03;95
+DL387;Tubos capilares con Heparina;Pieza;0;1 121 01 01 03;95
+DL388;Tubos capilares sin Heparina;Pieza;0;1 121 01 01 03;95
+DL389;Tubos tapa rosca ;Pieza;16 x 150 mm;1 121 01 01 03;95
+DL397;Tubo para extraccion de sangre al vacio (Con anticoagulante CITRATO);Pieza;0;1 121 01 01 03;95
+DL398;Urea (Met. Cinetico);set;0;1 121 01 01 03;95
+DL405;Vaso de Precipitado de vidrio pyrex ;Pieza;250 mL;1 121 01 01 01;93
+DAC094I;Agujas para Vacutainer ;Pieza;21 G x 1 1/2;1 121 01 01 03;95
+DSG037;Antigeno Anti D Negativo Rhesus control;Frasco;1 x 10 ml;1 121 01 01 03;95
+DOT031;Banditas Antialergicas;Pieza;0;1 121 01 01 02;94
+3D032;Goteros de plastico graduados ;Pieza;2 ml;1 121 01 01 04;96
+3R049;Tincion Wright;mL;0;1 121 01 01 03;95
+3R051;Transaminasas GOT (Met. Colorimetrico);set;0;1 121 01 01 03;95
+3R052;Transaminasas GPT (Met. Colorimetrico);set;0;1 121 01 01 03;95
+3R060;Xilol;mL;0;1 121 01 01 03;95
+3R068;Gama Glutamil Trasnferasa;set;0;1 121 01 01 03;95
+3R073;Control para Electrolitos;Ampolla;0;1 121 01 01 03;95
+3R076;Lipasa;mL;0;1 121 01 01 03;95
+3R081;ISE Snap Pack;Caja;0;1 121 01 01 03;95
+3R085;Soluciòn Nº2 DESPROTEINIZANTE ;Frasco;100 ml;1 121 01 01 03;95
+3R087;Soluciòn Nº4 DILUYENTE ;Frasco;100 ml;1 121 01 01 03;95
+3R113;Acido Clorhidrico p.a.;Litro;0;1 121 01 01 03;95
+3R140;Electrodo de potasio;Pieza;0;1 121 01 01 03;95
+3R141;Electrodo de cloro;Pieza;0;1 121 01 01 03;95
+3R142;Electrodo de calcio;Pieza;0;1 121 01 01 03;95
+3R143;Electrodo de sodio;Pieza;0;1 121 01 01 03;95
+3R146;Electrodo de referencia (Analizador de Electrolito AVL 9180);Pieza;0;1 121 01 01 03;95
+3R148;Chromagar STEC;Pieza;0;1 121 01 01 03;95
+3R150;Prueba ràpida p/COVID 19 (Ig G-IgM);Set;0;1 121 01 01 03;95
+3R151;Prueba ràpida ANTIGENO NASAL (Viral) p/COVID 19;set;0;1 121 01 01 03;95
+3R170;25 ON Diluyente x 20 lts.(Contador Hematològico);Bidòn;0;1 121 01 01 01;93
+3R171;25 LB Lyse x 500ml (Contador Hematològico);Frasco;0;1 121 01 01 01;93
+3R172;H5G LD-I Lyse x 1000ml (Contador Hematològico);Frasco;0;1 121 01 01 03;95
+3R173;H5G LD-II Lyse x 500ml (Contador Hematològico);Frasco;0;1 121 01 01 03;95
+3R174;Probe Cleanser x 50 ml (Contador Hematològico);Frasco;0;1 121 01 01 03;95
+3R175;ERBA XL WASH (Analizador de Quìmicas);set;0;1 121 01 01 03;95
+3R176;ERBA XL AUTOB WASH (Analizador de Quìmicas);set;0;1 121 01 01 03;95
+3R177;Multiplicador (Analizador de Quìmicas);set;0;1 121 01 01 03;95
+3R178;Prueba de tamizaje viral COVID-INFLUENZA;Taco;0;1 121 01 01 03;95
+3R179;Glutaraldehido;Galon;Kg;1 121 01 01 01;93
+3R180;Control hematologico N A y B compatible con ZYBIO;Caja;0;1 121 01 01 01;93
+3R183;Refill electrodos de referencia;Pieza;0;1 121 01 01 01;93
+3R184;Control de Calidaad p/electrolitos equipo AFT 800;Pieza;0;1 121 01 01 01;93
+3R185;Solucion Condicionamiento p/equipo AFT 800;Pieza;0;1 121 01 01 01;93
+3R186;Solucion Desproteinizadora p/equipo AFT 801;Pieza;0;1 121 01 01 01;93
+3V028;Tubo de Hemòlisis de Vidrio ;Pieza;12 x 75 mm;1 121 01 01 04;96
+3V051;Tubo de Ensayo;Pieza;10cmx13mm diametro;1 121 01 01 04;96
+5R504;Bicarbonato de sodio p.a.;Kg;0;1 121 01 01 03;95
+5R507;Hidroxido de Potasio  (lentejas);Gramos;0;1 121 01 01 03;95
+5R513;Tinciòn Ziehl Neelsen (Set de 3 colorantes. Cada colorante x 500 ml);Kit;0;1 121 01 01 03;95
+5R547;Disco Bacitracina 10 UI;Tubo;10 ug;1 121 01 01 03;95
+5R601;Kit para deteccion de STREP A-CHECK-1 DETECCION de Estreptococo grupo A;set;0;1 121 01 01 03;95
+5R607;Balsomo de Canada;mL;0;1 121 01 01 03;95
+5R608;Sangre de Carnero;ml;0;1 121 01 01 03;95
+5R611;Disco Cefotaxima + acido Clavulanico;Tubo;0;1 121 01 01 03;95
+5R624;Disco Fosfomicina;Tubo;30 ug;1 121 01 01 03;95
+5R626;Cromoagar para candida ;Frasco;5 lts.;1 121 01 01 03;95
+5R628;Tincion de PAS ;Solucion;2 x 100 ml;1 121 01 01 03;95
+5R630;Kit para detecciòn de Toxina A/B/GDH detecciòn de Clostridium difficile;Determinaciones;0;1 121 01 01 03;95
+5R631;Kit medio de cultivo CROMOGAR KPC;Set;0;1 121 01 01 03;95
+5R633;Reacctivo Deshidratante;Litro;0;1 121 01 01 01;93
+5R634;XS - 3;Litro;0;1 121 01 01 01;93
+5O-515;Bandeja Porta Objetos (capacidad 20 làminas);Pieza;25 x 75 cm;1 121 01 01 04;96
+5O517;Adaptador para agujas al vacio HOLDER;Pieza;0;1 121 01 01 01;93
+5O518;Perfil Electrodos ISE;Set;0;1 121 01 01 01;93
+DO002;Adhesivo DENTINARIO;Frasco;0;1 121 01 01 07;99
+DO004;Agujas p/carpule largas;Pieza;0;1 121 01 01 07;99
+DO006;Aplicadores para adhesivo unipolar;Caja;0;1 121 01 01 07;99
+DO007;Baberos descartables;Pieza;0;1 121 01 01 02;94
+DO010;Cemento endodontico;Set;0;1 121 01 01 07;99
+DO019B;Conos de Gutspercha 1º SERIE;Pieza;25 mm;1 121 01 01 07;99
+DO020;Conos de Gutapercha 2º SERIE;Caja;45 a 80 mm;1 121 01 01 07;99
+DO021;Conos de papel absorvente 1º SERIE;Caja;15 a 40 mm;1 121 01 01 07;99
+DO024;Cuñas de Madero de Naranjo INTERPROXIMALES;Pieza;0;1 121 01 01 07;99
+DO026;Desvitalizante pulpar SIN arsènico en pasta (DEPULPIN);Frasco;0;1 121 01 01 07;99
+DO028;Discos para pulir resina con mandril;Caja;0;1 121 01 01 07;99
+DO029;EDTA;Frasco;0,17;1 121 01 01 01;93
+DO032;Eucaliptol;Frasco;0;1 121 01 01 01;93
+DO033;Eugenol;Solucion;0;1 121 01 01 07;99
+DO034;Eyectores de Saliva;Pieza;0;1 121 01 01 07;99
+DO035;Flour Acidulado en gel;Frasco;0;1 121 01 01 07;99
+DO037;Formocresol en soluciòn;Frasco;20ml;1 121 01 01 07;99
+DO040B;Fresa de carburo A.V. REDONDA MEDIANA;Pieza;0;1 121 01 01 07;99
+DO040C;Fresa de carburo A.V. REDONDA PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO040F;Fresa de carburo A.V. FISURA PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO040G;Fresa de carburo A.V. ESTRELLA;Pieza;0;1 121 01 01 07;99
+DO041B;Fresa de carburo B.V. REDONDA MEDIANA;Pieza;0;1 121 01 01 07;99
+DO041C;Fresa de carburo B.V. REDONDA PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO042A;Fresa de diamante A.V. REDONDA GRANDE;Pieza;0;1 121 01 01 07;99
+DO042B;Fresa de diamante A.V. REDONDA MEDIANA;Pieza;0;1 121 01 01 07;99
+DO042C;Fresa de diamante A.V. REDONDA PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO042D;Fresa de diamante A.V. FISURA GRANDE;Pieza;0;1 121 01 01 07;99
+DO042F;Fresa de diamante A.V. FISURA PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO042I;Fresa de diamante A.V. TRONCOCONICA MEDIANA;Pieza;0;1 121 01 01 07;99
+DO043O;Fresa de diamante B.V. LLAMA MEDIANA;Pieza;0;1 121 01 01 07;99
+DO043P;Fresa de diamante B.V. LLAMA PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO044B;Fresas GATE GLIDEN MEDIANA;Pieza;0;1 121 01 01 07;99
+DO044C;Fresa GATE GLIDEN PEQUEÑA;Pieza;0;1 121 01 01 07;99
+DO045;Fresas Quirúrgicas AV ;Pieza;0;1 121 01 01 07;99
+DO046;Fresa QUIRURGICA B.V.;Pieza;0;1 121 01 01 07;99
+DO051;Hemostatico Esponja Absorvible (ESPONGOSTAMP);Frasco;0;1 121 01 01 07;99
+DO053;Hidroxido de Calcio (pasta Base y Catalizador);Jeringa;0;1 121 01 01 07;99
+DO054;Hidroxido de Calcio quimicamente puro (polvo);Frasco;0;1 121 01 01 07;99
+DO055;Hilo Dental;Pieza;0;1 121 01 01 07;99
+DO056;IODOFORMO (polvo);Frasco;0;1 121 01 01 01;93
+DO058;Ionomero de Restauacion FOTOPOLIMERIZABLE;Pieza;0;1 121 01 01 07;99
+DO059;Ionomero de vidrio BASE AUTOPOLIMERIZABLE (polvo y lìquido);Pieza;0;1 121 01 01 07;99
+DO060;Ionomero de vidrio de Restauracion AUTOPOLIMERIZABLE (polvo y lìquido);Pieza;0;1 121 01 01 07;99
+DO063;Limas (HEDSTROM), de 15 a 40: 21mm, 25mm, 31mm);Caja x 6 unidades;0;1 121 01 01 07;99
+DO065;Limas K, de 15-40 (21mm, 25mm, 31mm);Caja x 6 unidades;0;1 121 01 01 07;99
+DO067C;LIMAS K 21 mm;Caja;Nº 10;1 121 01 01 07;99
+DO072;Lubricante SPRAY para (AV y BV);Pieza;0;1 121 01 01 07;99
+DO074A;Matriz Metalica Ancha;Pieza;0;1 121 01 01 07;99
+DO074B;Matriz Metalica Angosta;Pieza;0;1 121 01 01 07;99
+DO078;Paramonoclorofenol;Frasco;0;1 121 01 01 07;99
+DO081;Pasta Alveolar Antiseptica (ALVOLGYL);Pasta;10g;1 121 01 01 07;99
+DO082;Pasta para pulir resina;Jeringa ;2 g;1 121 01 01 07;99
+DO083;Pasta PROFILACTICA;Pieza;0;1 121 01 01 07;99
+DO087;Resina  FLUIDA  FOTOPOLIMERIZABLE (A1, A2);Pieza;2 g;1 121 01 01 07;99
+DO088;Resina Fotopolimerizable (A1, A2, A3);Pieza;0;1 121 01 01 07;99
+DO090;Revelador de Placa BACTERIANA(tabletas o lìquido);Frasco;0;1 121 01 01 07;99
+DO092;Sellante de Fosas y Fisuras Fotopolimerizable;Pieza;0;1 121 01 01 07;99
+DO096;Tiranervios cortos;Caja x 6 unidades;0;1 121 01 01 07;99
+DO099;TIRA DE LIJA METALICA (unidad de 4 a 6 mm);SOBRE;0;1 121 01 01 07;99
+N0109;LIDOCAINA CLORHIDRATO SIN EPINEFRINA;Cartucho dental;0;1 121 01 01 01;93
+N0111;Lidocaina Clorhidrato+epinefrina;Cartucho Dental;0;1 121 01 01 01;93
+DI012;Revelador Radiogràfico Manual;Frasco;0;1 121 01 01 01;93
+DI013;Fijador Radiografico lìquido manual;Frasco;0;1 121 01 01 01;93
+7G002;Goma Dique de latex;Pieza;0;1 121 01 01 07;99
+7F111;FRESAS CARBURO A.V C.I mediana;Pieza;0;1 121 01 01 07;99
+7F112;FRESAS CARBURO A.V C.I pequeña;Pieza;0;1 121 01 01 07;99
+7R002;Placas Radiogràficas Pediatricas;Pieza;0;1 121 01 01 07;99
+7R003;RADIOGRAFIAS Periapicales (ADULTO);Pieza;0;1 121 01 01 07;99
+7P001;Papel de ARTICULAR (Block x 12 làminas);Caja;0;1 121 01 01 07;99
+7P007;Piedras Montadas Arkansas AV;Kit;0;1 121 01 01 07;99
+7P008;Piedras Montadas Arkansas BV;Kit;0;1 121 01 01 07;99
+2M046;Manga Mixta ;Pieza;20 cm x 100 m;1 121 01 01 02;94

@@ -1,0 +1,26 @@
+        /**ESTILOS DE TABLITAS POWERGRID PARA QUE NO SE MUEVAN LAS OPCIONES */
+        .tablita-cabecera-sin-mover {
+            position: sticky;
+            right: 0;
+            background-color: #2471a3;
+            z-index: 11;
+            box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+
+        }
+
+        tr:nth-child(even) .tablita-cuerpo-sin-mover {
+            background-color: #ffffff;
+        }
+
+        tr:nth-child(odd) .tablita-cuerpo-sin-mover {
+            background-color: rgb(240, 240, 240);
+
+        }
+
+        .tablita-cuerpo-sin-mover {
+            position: sticky;
+            right: 0;
+            background-color: rgb(240, 240, 240);
+            z-index: 10;
+            box-sizing: border-box;
+        }

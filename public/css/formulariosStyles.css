@@ -1,0 +1,329 @@
+/* ---------- ----- ------- */
+.glow {
+    box-shadow: 0 0 5px 2px green;
+}
+
+/* Estilos para centrar el toast y cambiar el color de fondo */
+.toast-center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1060;
+    /* Z-index alto para que se superponga a otros elementos */
+}
+
+.toast-red .toast-header {
+    background-color: #dc3545;
+    color: white;
+}
+
+.toast-red .toast-body {
+    background-color: #f8d7da;
+    color: #721c24;
+}
+
+.sticky-col {
+    position: sticky;
+    right: 0;
+    background-color: white;
+    /* o bg de tu tabla */
+    z-index: 10;
+}
+
+/** PARA LOS FORMULARIOS*/
+/* ESTO ES EL CARD QUE SIEMPRE USAMOS*/
+.card-comun {
+    border-radius: 10px;
+    padding: 2px;
+    box-shadow: 1px 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* ESTO ES UN CARD UNCAMENETE COM BORDE*/
+.card-borde {
+    border: 1px solid #dee2e6;
+    border-radius: 8px;
+}
+
+/* para el borde de los cards*/
+/* .field_estilos {
+    border: 1px solid #2471a3;
+    border-radius: 5px;
+    padding: 15px;
+    position: relative;
+}
+
+.field_estilos legend {
+    color: #2471a3;
+    font-size: 1.25rem;
+    padding: 0;
+    margin-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+    width: auto;
+}
+
+.field_estilos legend span {
+    color: #cb4335;
+    font-weight: bold;
+} */
+
+/* .field_estilos:hover {
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+    transform: translateY(-5px);
+} */
+
+/*--------CABCERAS ------*/
+/* ESTO ES PARA TITULOS COMO UN CARD HEADER MAS PEUQEÑO  , 
+PUEDES PONER SVG SIN MODIFICAR  CON LETRAS AZULES */
+.cabecera {
+    background-color: #e5f0f9;
+    border-radius: 8px;
+    padding: 0.25rem;
+}
+
+.cabecera b {
+    color: #2471a3;
+}
+
+.cabecera svg {
+    fill: #2471a3;
+    width: 20px;
+    height: 20px;
+}
+
+/* ESTO ES PARA TITULOS COMO UN CARD HEADER MAS PEUQEÑO  , 
+PUEDES PONER SVG SIN MODIFICAR CON LETRAS NEGRAS */
+.cabecera-negra {
+    background-color: #e5f0f9;
+    border-radius: 8px;
+    padding: 0.25rem;
+    /* equivalente a p-1 */
+}
+
+.cabecera-negra b {
+    color: black;
+}
+
+.cabecera-negra svg {
+    fill: black;
+    width: 20px;
+    height: 20px;
+}
+
+/* ESTO ES PARA TITULOS COMO UN CARD HEADER MAS PEUQEÑO  , 
+PUEDES PONER SVG SIN MODIFICAR CON BORDE AZUL */
+.cabecera-borde-azul {
+    background-color: #e5f0f9;
+    border: 1px solid #59a9d7;
+    padding: 2px;
+    display: flex;
+    align-items: center;
+    gap: 3px;
+    border-radius: 8px;
+}
+
+.cabecera-borde-azul b {
+    color: black;
+    padding-left: 2px;
+}
+
+.cabecera-borde-azul svg {
+    fill: #2471a3;
+    width: 20px;
+    height: 20px;
+}
+
+.cabecera-tabla-celeste {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25rem;
+    /* equivale a p-1 de Bootstrap */
+    background-color: #e5f0f9;
+    border: 1px solid #d1d5d8;
+    border-radius: 8px;
+    color: #2471a3;
+}
+
+.cabecera-tabla-plomo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25rem;
+    /* equivale a p-1 de Bootstrap */
+    background-color: #e1e5e7;
+    border: 1px solid #d1d5d8;
+    border-radius: 8px;
+    color: black;
+}
+
+.cabecera-tabla-azul-oscuro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.25rem;
+    /* equivale a p-1 de Bootstrap */
+    background-color: #2471a3;
+    border: 1px solid #2471a3;
+    border-radius: 8px;
+    color: rgb(255, 255, 255);
+}
+
+/* ESTO ES EL INPUT COMUN */
+.input-comun {
+    border-radius: 8px;
+}
+
+.input-comun-disabled {
+    border-color: white;
+    border-radius: 8px;
+}
+
+.p-comun-disabled {
+    background-color: #e5e8e8;
+    border-color: white;
+    border-radius: 8px;
+    user-select: none;
+}
+
+.p-titulos {
+    background-color: #c4dff3;
+    text-align: center;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+/* ESTO ES para una tabla plomita */
+.tabla-ploma {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #d1d5d8;
+    border-radius: 8px;
+}
+
+.tabla-ploma thead {
+    background-color: #e1e5e7;
+}
+
+.tabla-ploma thead th {
+    position: sticky;
+    top: 0;
+    background-color: #e1e5e7;
+    z-index: 2;
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+.tabla-ploma td {
+    border: 1px solid #d1d5d8;
+    vertical-align: middle;
+    padding: 8px;
+}
+
+.tabla-ploma thead th:first-child {
+    border-top-left-radius: 8px;
+}
+
+.tabla-ploma thead th:last-child {
+    border-top-right-radius: 8px;
+}
+
+/* ESTO ES para una tabla azul oscuro*/
+.tabla-azul-oscuro {
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 0.5px solid #d1d5d8;
+    border-radius: 8px;
+}
+
+.tabla-azul-oscuro thead {
+    background-color: #2471a3;
+}
+
+.tabla-azul-oscuro thead th {
+    position: sticky;
+    top: 0;
+    background-color: #2471a3;
+    z-index: 2;
+    border: 0.5px solid #ccc;
+    color: white;
+    padding: 8px;
+}
+
+.tabla-azul-oscuro td {
+    border: 0.5px solid #d1d5d8;
+    vertical-align: middle;
+    padding: 8px;
+}
+
+.tabla-azul-oscuro thead th:first-child {
+    border-top-left-radius: 8px;
+}
+
+.tabla-azul-oscuro thead th:last-child {
+    border-top-right-radius: 8px;
+}
+
+/* ESTO ES para una tabla celeste */
+.tabla-celeste {
+    border-collapse: separate;
+    border-spacing: 0;
+    border-radius: 8px;
+    border-bottom: 1px solid #d1d5d8;
+}
+
+.tabla-celeste thead {
+    background-color: #e5f0f9;
+    color: #2471a3;
+    border-bottom: 1px solid #d1d5d8;
+}
+
+.tabla-celeste thead th {
+    position: sticky;
+    top: 0;
+    background-color: #e5f0f9;
+    z-index: 2;
+    border: 1px solid #d1d5d8;
+    padding: 8px;
+}
+
+.tabla-celeste td {
+    border: 0.5px solid #f0f3f5;
+    vertical-align: middle;
+    padding: 8px;
+}
+
+.tabla-celeste thead th:first-child {
+    border-top-left-radius: 8px;
+}
+
+.tabla-celeste thead th:last-child {
+    border-top-right-radius: 8px;
+}
+
+.field_estilos {
+    border: 1px solid #2471a3;
+    border-radius: 5px;
+    padding: 15px;
+    position: relative;
+}
+
+.field_estilos legend {
+    color: #2471a3;
+    font-size: 1.25rem;
+    padding: 0;
+    margin-left: 10px;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    font-weight: bold;
+    width: auto;
+}
+
+.field_estilos legend span {
+    color: #cb4335;
+    font-weight: bold;
+}

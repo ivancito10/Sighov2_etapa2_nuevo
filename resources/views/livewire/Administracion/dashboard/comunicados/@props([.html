@@ -1,0 +1,99 @@
+@props([
+    'id' => 'videoCarousel',
+    'videos' => [], // Cada video será un array con 'src' y 'title'
+])
+
+<div id="{{ $id }}" class="carousel slide carousel-vertical-videos">
+    <div class="carousel-inner">
+        @foreach ($videos as $index => $video)
+            <div class="carousel-item {{ $index === 0 ? 'active' : '' }}">
+                <video class="d-block w-100" controls muted playsinline>
+                    <source src="{{ asset($video['src']) }}" type="video/mp4">
+                </video>
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>{{ $video['title'] }}</h5>
+                </div>
+            </div>
+        @endforeach
+    </div>
+
+    {{-- Controles --}}
+    <button class="carousel-control-prev" type="button" data-bs-target="#{{ $id }}" data-bs-slide="prev">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black"
+            class="bi bi-caret-left-fill" viewBox="0 0 16 16">
+            <path
+                d="m3.86 8.753 5.482 4.796c.646.566 1.658.106 1.658-.753V3.204a1 1 0 0 0-1.659-.753l-5.48 4.796a1 1 0 0 0 0 1.506z" />
+        </svg>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#{{ $id }}" data-bs-slide="next">
+        <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" fill="black"
+            class="bi bi-caret-right-fill" viewBox="0 0 16 16">
+            <path
+                d="m12.14 7.247-5.482-4.796C6.012 1.885 5 2.345 5 3.204v9.592c0 .859 1.012 1.319 1.658.753l5.482-4.796a1 1 0 0 0 0-1.506z" />
+        </svg>
+    </button>
+
+    <style>
+        /* Carrusel vertical */
+        .carousel-vertical-videos .carousel-inner {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        .carousel-vertical-videos .carousel-item {
+            transition: transform 0.6s ease;
+        }
+
+        .carousel-caption {
+            position: absolute;
+            bottom: 10%;
+            left: 50%;
+            transform: translateX(-50%);
+            background: rgba(0, 0, 0, 0.5);
+            padding: 0.5rem 1rem;
+            border-radius: 0.5rem;
+        }
+    </style>
+</div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    const carouselEl = document.getElementById("{{ $id }}");
+    const carousel = new bootstrap.Carousel(carouselEl, {
+        ride: false,
+        interval: false // ⚡ Evita que avance solo
+    });
+    const videos = carouselEl.querySelectorAll("video");
+
+    function playActiveVideo() {
+        videos.forEach(v => {
+            v.pause();
+            v.currentTime = 0;
+            v.muted = true;
+        });
+
+        const activeVideo = carouselEl.querySelector(".carousel-item.active video");
+        if (activeVideo) {
+            activeVideo.addEventListener('canplaythrough', () => {
+                activeVideo.muted = false;
+                activeVideo.play().catch(() => {});
+            }, { once: true });
+
+            activeVideo.load();
+        }
+    }
+
+    playActiveVideo();
+
+    videos.forEach(video => {
+        video.addEventListener("ended", () => {
+            carousel.next();
+        });
+    });
+
+    carouselEl.addEventListener("slid.bs.carousel", () => {
+        playActiveVideo();
+    });
+});
+</script>
